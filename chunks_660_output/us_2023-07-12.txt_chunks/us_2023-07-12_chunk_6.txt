@@ -1,0 +1,28 @@
+This delay will spill over into subsequent math learning, and Loveless believes that many students will be unprepared for Algebra I even by ninth grade.
+As I have written before (with my co-author, the late Ze'ev Wurman): The framework promotes only the progressive-education approach to teaching math, calling it ``student-led'' instruction, ``active learning,'' ``active inquiry,'' and ``collaborative'' instruction.
+But evidence from the 1950s through recent times shows that this way of teaching math is ineffective.
+That evidence comes from scrutinizing carefully designed studies featuring randomized control and what are called quasi-experiments, which approximate the effect of a randomized assignment of students to different groups.
+Quasi- experiments look at cases, for example, where two adjoining districts with similar populations or two adjoining similar schools adopt different policies.
+Both sorts of studies are much stronger evidence than the case studies that progressive educators rely on.
+In the spring 2012 issue of American Educator, the magazine of the American Federation of Teachers, top educational psychologists Richard E. Clark, Paul A. Kirschner, and John Sweller summarized ``decades of research'' that ``clearly demonstrates'' that for almost all students, ``direct, explicit instruction'' is ``more effective'' than inquiry- based progressive education in math.
+Clark, Kirschner, and Sweller conclude that after ``a half century'' of progressive educators advocating inquiry-based teaching of math, ``no body of sound research'' can be found that supports using that approach with ``anyone other than the most expert students.''
+Evidence from the best studies, they emphasize, ``almost uniformly'' supports ``full and explicit'' instruction rather than an inquiry-based approach.
+2.
+Misrepresentation of Research Brian Conrad of Stanford's math department points out that the revised math framework contains much in the way of ``false or misleading'' descriptions of research on math instruction.
+It also cites ``unpublished papers with design flaws,'' instead of relying solely on peer-reviewed published work.
+Conrad asks: Why does the framework ``still not adhere to the level of research quality'' called for by the What Works Clearinghouse?
+Conrad says that the framework is invoking neuroscience literature ``in misleading ways'' to promote ``pseudo- scientific claims'' about progressive-education math instruction improving pathways in the brain.
+The framework wrongly cites a paper to promote the general use of ``invented strategies'' (that is, students devising their own strategies) as a proven approach to learning standard algorithms.
+Conrad finds that the framework distorts citations in a way that indicates ``an ideological (rather than evidence-based) opposition to acceleration.''
+He points out that ``there is extensive literature with conclusions opposite'' that cited in the framework, ``but these are barely ever mentioned.''
+As Wurman and I have written before: State-adopted education programs and recommendations are supposed to be ``research-based.''
+This does not just mean an article or 2 in a peer-reviewed journal.
+It means there is a consensus or strong evidence of effectiveness in the published research.
+If no strong evidence exists, a practice should not be broadly recommended. . . .
+If the framework writers had wanted solid evidence, they would have relied on the final report and subgroup reports of the 2008 federal National Mathematics Advisory Panel.
+They would have made even more use of the federal Institute of Education Sciences practice guides, which are designed for teachers and curriculum writers.
+3.
+Rejection of Algebra I in 8th Grade The revised framework rejects (as did its earlier iterations) the time-honored aim of preparing students to take Algebra I in eighth grade.
+Eighth-grade algebra is the policy in high-performing foreign countries whose inhabitants will compete with America's children in the future--and that eighth-grade goal was expressly part of the 1999 and 2006 California math frameworks.
+This current framework recommends ninth grade as when almost all students should take Algebra I. Students who plan to go to selective colleges and universities or who plan to major in STEM fields in college need to pass calculus in high school.
+Taking algebra in eighth grade allows them to do so.
