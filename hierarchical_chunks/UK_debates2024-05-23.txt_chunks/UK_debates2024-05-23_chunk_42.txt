@@ -1,0 +1,44 @@
+The AI Seoul summit built on the legacy of the first AI safety summit, hosted by the UK at Bletchley Park in November 2023.
+At Bletchley, 28 countries and the European Union, representing the majority of the world’s population, signed the Bletchley declaration agreeing that, for the good of all, artificial intelligence should be designed, developed, deployed and used in a manner that is safe, human-centric, trustworthy and responsible.
+The same set of countries agreed to support the development of an international, independent and inclusive report to facilitate a shared science-based understanding of the risks associated with frontier AI.
+At the same time, the UK announced the launch of our AI Safety Institute, the world’s first Government-backed organisation dedicated to advanced AI safety for the public good.
+World leaders, together with the leaders of the foremost frontier AI companies, agreed to the principle that states have a role in testing the most advanced models.
+Since Bletchley, the UK has led by example with impressive progress on AI safety, both domestically and bilaterally.
+The AI Safety Institute has built up its capabilities for state-of-the-art safety testing.
+It has conducted its first pre-deployment testing for potential harmful capabilities on advanced AI systems, set out its approach to evaluations and published its first full results.
+That success is testament to the world-class technical talent that the institute has hired.
+Earlier this week, the Secretary of State announced the launch of an office in San Francisco that will broaden the institute’s technical expertise and cement its position as a global authority on AI safety.
+The Secretary of State also announced a landmark agreement with the United States earlier this year that will enable our institutes to work together seamlessly on AI safety.
+We have also announced high-level partnerships with France, Singapore and Canada.
+As AI continues to develop at an astonishing pace, we have redoubled our international efforts to make progress on AI safety.
+Earlier this week, just six months after the first AI safety summit, the Secretary of State was in the Republic of Korea for the AI Seoul summit, where the same countries came together again to build on the progress we made at Bletchley.
+Since the UK launched our AI Safety Institute six months ago, other countries have followed suit; the United States, Canada, Japan, Singapore, the Republic of Korea and the EU have all established state-backed organisations dedicated to frontier AI safety.
+On Tuesday, world leaders agreed to bring those institutes into a global network, showcasing the Bletchley effect in action.
+Coming together, the network will build “complementarity and interoperability” between their technical work and approaches to AI safety, to promote the safe, secure and trustworthy development of AI.
+As part of the network, participants will share information about models, and their limitations, capabilities and risk.
+Participants will also monitor and share  information about specific AI harms and safety incidents, where they occur.
+Collaboration with overseas counterparts via the network will be fundamental to making sure that innovation in AI can continue, with safety, security and trust at its core.
+Tuesday’s meeting also marked an historic moment, as 16 leading companies signed the frontier AI safety commitments, pledging to improve AI safety and to refrain from releasing new models if the risks are too high.
+The companies signing the commitments are based right across the world, including in the US, the EU, China and the middle east.
+Unless they have already done so, leading AI developers will now publish safety frameworks on how they will measure the risks of their frontier AI models before the AI action summit, which is to be held in France in early 2025.
+The frameworks will outline when severe risks, unless adequately mitigated, would be “deemed intolerable” and what companies will do to ensure that thresholds are not surpassed.
+In the most extreme circumstances, the companies have also committed to “not develop or deploy a model or system at all” if mitigations cannot keep risks below the thresholds.
+To define those thresholds, companies will take input from trusted actors, including home Governments, as appropriate, before releasing them ahead of the AI action summit.
+On Wednesday, Ministers from more than 28 nations, the EU and the UN came together for further in depth discussions about AI safety, culminating in the agreement of the Seoul ministerial statement, in which countries agreed, for the first time, to develop shared risk thresholds for frontier AI development and deployment.
+Countries agreed to set thresholds for when model capabilities could pose “severe risks” without appropriate mitigations.
+This could include: helping malicious actors to acquire or use chemical or biological weapons; and AI’s potential ability to evade human oversight.
+That move marks an important first step as part of a wider push to develop global standards to address specific AI risks.
+As with the company commitments, countries agreed to develop proposals alongside AI companies, civil society and academia for discussion ahead of the AI action summit.
+In the statement, countries also pledged to boost international co-operation on the science of AI safety, by supporting future reports on AI risk.
+That follows the publication of the interim “International Scientific Report on the Safety of Advanced AI” last week.
+Launched at Bletchley, the report unites a diverse global team of AI experts, including an expert advisory panel from 30 leading AI nations from around the world, as well as representatives from the UN and the EU, to bring together the best existing scientific research on AI capabilities and risks.
+The report aims to give policymakers across the globe a single source of information to inform their approaches to AI safety.
+The report is fully independent, under its chair, Turing award winner, Yoshua Bengio, but Britain has played a critical role by providing the secretariat for the report, based in our AI Safety Institute.
+To pull together such a report in just six months is an extraordinary achievement for the international community; Intergovernmental Panel on Climate Change reports, for example, are released every five to seven years.
+Let me give the House a brief overview of the report’s findings.
+It recognises that advanced AI can be used to boost wellbeing, prosperity and new scientific breakthroughs, but notes that, as with all powerful technologies, current  and future developments could cause harm.
+For example, malicious actors can use AI to spark large-scale disinformation campaigns, fraud and scams.
+Future advances in advanced AI could also pose wider risks, including labour market disruption and economic power imbalances and inequalities.
+The report also highlights that, although various methods exist for assessing the risk posed by advanced AI models, all have limitations.
+As is common with scientific syntheses, the report highlights a lack of universal agreement among AI experts on a range of topics, including the state of current AI capabilities and how these could evolve over time.
+The next iteration of the report will be published ahead of the AI action summit early next year.

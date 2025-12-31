@@ -1,0 +1,65 @@
+The Secretary of State is taking a safety-first approach to this legislation, and that seems to be the will of the House.
+I have used a driverless vehicle operated by Waymo, a driverless Uber-style service in the United States.
+He will know that those vehicles have more cameras—more eyes—looking in more directions more of the time than it would be possible to achieve even with 100 drivers sitting in a single vehicle.
+My concern is whether, in his effort to put safety first, he is compromising the potential for economic growth.
+In America, most of the force for change with automated vehicles is being driven by the leading global technology companies.
+What discussions has he had with those companies in preparation for the Bill?
+How comfortable are they with the Government’s approach?
+I have discussed the legislation with a number of those companies—both UK companies and those in the US—and I am pleased to assure my hon.
+Friend and the House that they too recognise that safety is incredibly important.
+They all understand that they have to be able to operate within a legal framework set by legislators who are ultimately accountable to the public, and that they have to take the public with them.
+As ever with these things, whatever the track record of existing vehicles and drivers, because this is new technology, people will be sceptical about it, and anything that goes wrong will have a brighter light shone on it.
+The industry is very aware of that and, I think, very happy to work with us on those issues.
+rose— I will take one more intervention and then I will make some progress.
+I will be honest, Mr Deputy Speaker: I am not very technically minded.
+I like the idea of a manual car with five or six gears and reverse.
+In the rural community that I live in, I am very happy with that.
+I have a bit of hesitation about automated vehicles.
+Thinking about young drivers—this is really important, because the Secretary of State mentioned blurred lines—we have to make sure that everyone who learns to drive has full capacity to drive any vehicle, and does not think they can get into an automated vehicle and just sit there and do nothing.
+It is really important that everyone is subject to the same rules.
+Can he confirm for anyone who thinks that in future they will be able just to sit in the back of the car that that is not the case, and that they will have to learn to drive in the way that we all have over the years?
+I will come to that in a second—it will become clear in the next section of my speech—but I can tell the hon.
+Gentleman that the Bill is about giving people choices.
+If people want, as many will, to carry on driving their existing vehicles in the traditional way, that is absolutely fine and no one is going to try to stop them.
+To be very clear, the hon.
+Gentleman can carry on driving for as long as he wants to and is safe to, and no one is going to try to stop him.
+Certainly, I am not going to try—I wouldn’t dare.
+On the legal concerns—this will address the point about the driving test, too—the Bill redefines our legal relationship with road transport.
+As soon as someone turns on a self-driving feature, legal responsibility for how the car drives will transfer to an authorised self-driving entity, or ASDE—not a very catchy acronym, admittedly, but that is what they are called.
+That could be a manufacturer or a software developer but, crucially, it will not be the human driver, who will assume a new status.
+As a user in charge, they will still need to ensure that the car is roadworthy, and they will need to reassume control if necessary.
+That answers the hon.
+Gentleman’s question: someone will still need to be in possession of a full driving licence and able to reassume control of the vehicle if required, but they will be protected by law from any offences while the car is driving itself.
+Some journeys, either in private cars or on self-driving transport, will be fully automated, and a human will never need to take control; they will be, in essence, a passenger.
+My hon.
+Friend  the Member for North East Bedfordshire (Richard Fuller)  mentioned the example of Waymo cars in the US.
+Those are operated as taxis, with no driver present, and the human is never expected to take control; it is classed as a “no user in charge” journey.
+In those circumstances, someone would not need a driving licence, because they would never be expected to drive the car, in the same way we are not expected to drive a taxi or private hire vehicle.
+Those legal concepts will have a seismic impact.
+This is the future, and it is both quite exciting and quite scary.
+We have to get our heads around it and make sure that we get this right.
+On what the Secretary of State has just been describing, is it basically the difference between someone taking a taxi and driving their own car?
+If there is an accident in a taxi, the taxi company is responsible, not the passenger.
+If someone is using a vehicle for a “no user in charge” journey for which they are, in effect, the passenger and there is an accident, it will be totally the responsibility, in all circumstances, of the person operating the vehicle.
+Where someone who is driving the car for part of the time switches on the self-driving features and something happens while those features are activated, that will be not their responsibility but that of the manufacturer or the software developer.
+If someone is in control of the vehicle and the self-driving features are not activated, they retain responsibility.
+One of the things that we will have to do is educate people about the difference, and we are being clear to manufacturers that there is a big difference between a self-driving feature and driver assistance.
+Under driver assistance, the driver is still fully legally responsible for the vehicle, but with some technological help; when the self-driving features are activated, they no longer have legal responsibility.
+Is there not potential for a legal conflict between a driver who says, “I was in self-driving mode,” and a company that says, “No, it was switched off”?
+Does the Secretary of State see that it might be very difficult to establish what happened in such circumstances?
+Potentially, but that is exactly why the earlier question about data is very important.
+These vehicles generate a huge amount of data and one part  of the authorisation process will be making sure that that data is properly managed and there is proper access to it by the investigators of any potential accident and the insurance industry to establish exactly what has happened in such circumstances.
+rose— I give way to the Chairman of the Select Committee on Transport.
+I want to build on the question from  the hon.
+Member for Strangford (Jim Shannon)  about the situation where a driver is in control of the car at some point and at other points the car is autonomous.
+That will presumably result in drivers becoming less experienced, as they will not accumulate as much knowledge and experience of driving.
+When the automated features switch off and the driver needs to take control, those will be potentially immediate and challenging circumstances.
+Is my right hon.
+Friend assured that the driving test and refresher courses will give drivers sufficient capacity to take over in those circumstances?
+My hon.
+Friend raises a good point.
+I am very comfortable with the driving test; it continues to be updated to make sure drivers are familiar with features such as satnavs, and the new technology will be added.
+The wider question about how often drivers drive and how experienced they are of course arises now.
+Someone can take a driving test and not drive very much but occasionally hire a vehicle, and we hold them to the same standard as those who drive day in and day out; they are still responsible.
+There might in these circumstances be a question about whether it would be sensible for people to take refresher courses and do further training, and we will want to monitor that and determine whether we should legislate for it or issue guidance.
+It is an interesting point for us to keep an eye on.

@@ -1,0 +1,34 @@
+Livingston is a remarkable example of where investment can make a significant difference.
+I am really pleased that the chief executive of SilviBio recently received a women in innovation award for innovation in science.
+My hon.
+Friend is absolutely right that innovation accelerator projects in Glasgow and across the whole of Scotland need the integration between the Westminster Government and the Holyrood Government to be really successful, but that is precisely what we are determined to do.
+In October last year, he also had another £4 million investment in Livingston by Merck, making it one of the biggest investors in Scotland.
+What assessment he has made of the potential implications for his policies of the development of the Google quantum computing chip.
+Google’s Willow announcement is one of several important milestones achieved by companies developing quantum computers in recent   months, globally and in the UK.
+The announcement does not change our policy to maintain UK leadership across a range of quantum computing platforms.
+Learning from the successful Y2K, or year 2000, prevention of systems failures, what progress has the Secretary of State made in considering post-quantum cryptography to prevent the so-called Y2Q—year to quantum—end of privacy, and what support is being provided for the development of quantum computing in the UK after the recent announcement of the Willow chip?
+I am grateful for the hon.
+Member’s question.
+He will know full well that there are breakthroughs in quantum happening all the time.
+These breakthroughs are often happening because of the scientific endeavours in our country, of which we should be proud.
+On encryption, the Government have a set of policies to ensure that our systems and our country are prepared for the challenges and opportunities of the quantum era, and those policies remain active as we speak.
+On investment in quantum, I was up in Glasgow not so long ago announcing £100 million for five quantum hubs.
+That is the kind of investment he can expect from this Government to keep our country at the cutting edge.
+What steps his Department is taking to make digital services easier to access for small businesses in the north-east.
+No one anywhere in the UK should have difficulty using Government services, and the Government are committed to ensuring that our online and digital services are as accessible as possible.
+There are globally recognised standards for digital accessibility, but they are only part of the design of an inclusive service, which is why we will be revising the Government service standards to incorporate requirements covering wider issues of inclusion and looking at extending their scope into the wider public sector.
+Recently, I attended a roundtable of small businesses in the north-east, held at Sage, and a key theme was the need for good connections and digital services to help their businesses to grow.
+Digital connectivity is of course critical, but this often holds people back.
+What are the Government doing to ensure that digital infrastructure is strong enough to support local businesses in constituencies such as mine?
+It is right that not only do we need to have good online access to services, but businesses need to be able to connect to those services, and that is why the Government are committed to delivering nationwide gigabit connectivity coverage by 2030.
+I am glad to say that over 94% of premises in her constituency can access gigabit broadband, including the businesses that she refers to, but I am of course happy to meet her to talk about what more we can do in this important area.
+The Sussex Bookshop is a new bookshop that opened in Chichester city centre in December; it is now February and it is unable to connect to any sort of internet provision, because Openreach is reporting that there are no extra connections for the whole city centre.
+Does the Minister agree that reliable internet access is essential, especially for small businesses that have to operate both on the high street and on an online platform?
+What steps is she taking to ensure that those businesses have access now, not in 2030?
+I think that is linked to the north-east.
+That is the subject.
+I absolutely agree with the hon.
+Member.
+Businesses across the country should be able to connect, especially in this day and age.
+If the business in her constituency continues to experience problems, my hon.
+Friend the Minister for Data Protection and Telecoms will be happy to meet her to discuss this issue further.

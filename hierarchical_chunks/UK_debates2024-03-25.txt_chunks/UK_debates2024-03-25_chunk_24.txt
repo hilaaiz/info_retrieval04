@@ -1,0 +1,70 @@
+I know that right hon.
+and hon.
+Members on both sides of the Chamber will recognise the seriousness of this issue, particularly in a year when so many democratic elections will be taking place around the world.
+Members will want to be reassured that the Government are taking steps to address the associated threat.
+I can confirm today that Chinese state-affiliated actors were responsible for two malicious cyber-campaigns targeting both our democratic institutions and parliamentarians by, first, compromising the United Kingdom’s Electoral Commission between 2021 and 2022, as was announced last summer, and secondly, by attempting reconnaissance activity against UK parliamentary accounts in a separate campaign in 2021.
+Later today, a number of our international partners, including the United States, will issue similar statements to expose this activity and to hold China to account for the ongoing patterns of hostile activity targeting our collective democracies.
+Mr Speaker, you and parliamentary security have already been briefed on this activity.
+We want now to be as open as possible with the House and with the British public, because part of our defence is in calling out this behaviour.
+This is the latest in a clear pattern of hostile activity originating in China, including the targeting of democratic institutions and parliamentarians in the United Kingdom and beyond.
+We have seen this in China’s continued disregard for universal human rights and international commitments in Xinjiang, in China’s erasure of dissenting voices and stifling of the opposition under the new national security law in Hong Kong, and in the disturbing reports of Chinese intimidation and aggressive behaviour in the South China sea.
+That is why this Government have investigated and called out so-called Chinese overseas police service stations and instructed the Chinese embassy to close them.
+However, China’s cumulative attempts to interfere with the UK’s democracy have not succeeded.
+Last summer, the Electoral Commission stated that it had been a victim of a complex cyber-attack between 2021 and 2022.
+That was the work of Chinese state-affiliated actors who gained access to the Electoral Commission’s email and file-sharing systems, which contain copies of the electoral register.
+As the Electoral Commission stated in 2023, when that attack was first made public, the compromise has “not affected” the security of elections.
+It will not impact how people register, vote or otherwise participate in democratic processes.
+I want to reassure people that the compromise of that information, although obviously concerning, typically does not create a risk to those affected.
+I want to further reassure the House that the commission has worked with security specialists to  investigate the incident and remove the threat from its systems, and has since taken further steps to increase the resilience of its systems.
+In addition, the National Cyber Security Centre assesses that it is almost certain that the Chinese state-affiliated cyber-actor known as APT31 attempted to conduct reconnaissance activity against UK parliamentary accounts during a separate campaign in 2021.
+Hon.
+Members may recall that APT31 was one of several cyber-actors attributed to the Chinese Ministry of State Security by the UK and its allies in July 2021.
+That email campaign by APT31 was blocked by Parliament’s cyber-security measures; in this case, it was entirely unsuccessful.
+However, any targeting of Members of this House by foreign state actors is completely unacceptable.
+Taken together, the UK judges that those actions demonstrate a clear and persistent pattern of behaviour that signals hostile intent from China.
+That is why the UK has today sanctioned two individuals and one entity associated with the Chinese state-affiliated APT31 group for involvement in malicious cyber-activity targeting officials, Government entities and parliamentarians around the world.
+We are today acting to warn of the breadth of targeting emanating from Chinese state-affiliated actors such as APT31, to sanction those actors who attempt to threaten our democratic institutions, and to deter both China and all those who seek to do the same.
+Last week, at the summit for democracy in Seoul, I said that we would call out malicious attempts to undermine our democracy wherever we find them.
+This is an important tool in our armoury and today we are doing just that.
+The UK does not accept that China’s relationship with the UK is set on a predetermined course, but that depends on the choices China makes.
+That is why the Foreign Office will be summoning the Chinese ambassador to account for China’s conduct in these incidents.
+The UK’s policy towards China is anchored in our core national interests.
+We will engage with the Chinese Government where it is consistent with those interests, but we will not hesitate to take swift and robust actions wherever the Chinese Government threaten the UK’s interests—we have done so today and previously.
+This Government will continue to hold China and other state actors accountable for their actions.
+We will also take serious action to prevent this behaviour from affecting our security.
+The steps we have taken in recent years have made the UK a harder operating environment for foreign state actors seeking to target our values and our institutions.
+Through the National Security Act 2023, we now have, for the first time, a specific offence of foreign interference.
+That new offence will allow law enforcement to disrupt state-linked efforts to undermine our institutions, rights or political system.
+Our National Security and Investment Act 2021 has overhauled our scrutiny of investment into the United Kingdom by giving the Government powers to block, unwind or put conditions on investments that could create national security risks.
+We have significantly reduced China’s involvement in the UK’s civil nuclear sector, taking ownership of the CGN stake in the Sizewell C nuclear power project and ensuring Chinese state-owned nuclear energy corporations will have no further role in the project.
+We have put in place measures to prevent hostile infiltration of our universities, including protecting campuses from interference through the Higher Education  (Freedom of Speech) Act 2023.
+The Procurement Act 2023 includes national security devolvement provisions that allow us to act where we see malicious influence in our public procurement.
+I have taken steps to reduce the Government’s exposure to Chinese operators, banning Hikvision and TikTok from Government buildings and devices.
+Through the national cyber-security strategy, we are investing £2.6 billion to increase the cyber-resilience of our critical national infrastructure by 2025, making the most important parts of our digital environment a harder target for state and non-state actors.
+The Government are continuing to build the tools, expertise and knowledge to respond to the systemic challenge that China poses to the United Kingdom’s security and its values.
+The integrated review refresh in 2023 took steps toward this, doubling funding for a Government-wide programme, including investment in Mandarin language training and deepening diplomatic expertise.
+We must be clear that this is not a problem for the Government to solve alone.
+That is why we created the National Protective Security Authority within MI5 to help businesses and institutions play their part in protecting our security and prosperity.
+The NPSA will help organisations in the UK’s most sensitive fields, including critical national infrastructure operators and world-leading science and tech sectors, to protect themselves against state threats.
+I set up the economic security public-private forum to ensure businesses and business leaders in crucial sectors understand the threat to the UK and what they can do to defeat it.
+In Parliament, the National Cyber Security Centre has launched an opt-in service for Members of both Houses.
+This allows the NCSC to alert high-risk individuals if they identify evidence of malicious activity on their personal devices or account, and swiftly advise them on steps to take to protect their information.
+Today, the NCSC has published new guidance for political organisations, including political parties and think-tanks, which will help these organisations take effective action to protect their systems and their data.
+The NCSC is also working with all political parties to increase the uptake of their active cyber-defence services in the lead up to a general election.
+A key component of increasing our resilience is supporting the NCSC and parliamentary authorities by taking up that cyber-security offer.
+I urge all Members of this House to do so.
+I will be writing to colleagues later today, setting out again the steps that they can take.
+At the summit for democracy, I was struck by the powerful strength of our collective voices when we work together to defend our democratic freedoms.
+The summit provided the United Kingdom Government with a platform to build international agreements on a new global Government compact on countering deceptive use of AI by foreign states in elections.
+It is important and welcome that our partners across the Five Eyes, as well as those in Europe and the Indo-Pacific, are standing in solidarity with our efforts to call out malicious cyber-activity.
+I pay tribute to the dedicated public servants, whose painstaking work has continued to expose the reality of the threat we face.
+Our political processes and institutions have not been harmed by these attacks.
+The Government will continue to call out and condemn this kind of activity in the   strongest terms.
+We will continue to work with our allies to ensure that Chinese state-affiliated actors suffer the consequences of their behaviour.
+We will take preventive action to ensure these attempts do not succeed.
+The cyber-threat posed by China-affiliated actors is real and serious, but it is more than equalled by our determination and resolve to resist it.
+That is how we defend ourselves and our precious democracy, and I commend this statement to the House.
+rose— Order.
+This was an important statement, which is why it has run on quite a lot longer than the normal 10 minutes.
+I am sure everybody will agree that if the two Front-Bench speakers need a little extra time, we will be flexible in exactly the same way.
+I call the shadow Secretary of State, Pat McFadden.

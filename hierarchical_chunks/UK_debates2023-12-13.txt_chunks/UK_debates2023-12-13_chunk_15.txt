@@ -1,0 +1,9 @@
+What recent discussions she has had with Cabinet colleagues on the potential for biases in artificial intelligence technologies in relation to people with protected characteristics.
+We are having cross-governmental discussions about AI, and we are very clear that AI systems should not undermine people’s rights or discriminate unfairly.
+This was a key topic of discussion at the AI safety summit, and it remains a priority for the Government.
+Fairness is a core principle of our AI regulatory framework, and UK regulators are already taking action to address AI-related bias and discrimination.
+In that case, is the Minister aware of the findings of the Institute for the Future of Work that the use of artificial intelligence “presents risks to equality, potentially embedding bias and discrimination”, and that auditing AI tools used in recruitment “are often inadequate in ensuring compliance with UK Equality Law, good governance and best practice”?
+What steps are being taken across the whole of Government to ensure that appropriate assessments are made of the equalities impact of the use of AI in the workplace?
+That is exactly why we had the AI safety summit, at which more than 28 countries plus the EU signed up to the Bletchley declaration.
+In March, we published the AI regulation White Paper, which set out our first steps towards establishing a regulatory framework for AI.
+I repeat that AI systems should not undermine people’s rights or discriminate unfairly, and that is one of the core principles set out in the White Paper.

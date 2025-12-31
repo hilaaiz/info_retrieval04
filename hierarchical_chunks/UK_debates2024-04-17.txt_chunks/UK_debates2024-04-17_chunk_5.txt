@@ -1,0 +1,45 @@
+The Health and Social Care Committee’s report into the digital technologies of the future clearly demonstrated the opportunities that sit before us if we get the basics  right.
+AI is not only of use for increasing productivity in diagnostics, but also when setting treatment plans and in pharmacology.
+How is the Minister setting out a strategic plan for how AI can be invested in the NHS for the future, as Labour has done with our “Fit for the Future” plan?
+The hon.
+Lady is right to say that AI can play a great role in improving the way we treat conditions, provided that it is implemented in an ethical, safe and responsible way.
+One great example of that is Brainomix, which is already being used in 37 NHS healthcare trusts.
+It means that the in/out time has been greatly reduced, and three times more people who previously would have not been able to live independently are now able to do so because of the use of AI.
+That is also being used in additional critical pathways, and lessons are learned.
+I know the NHS is working closely with DHSC to ensure that AI is used effectively.
+What steps the Government is taking to regulate AI.
+What steps the Government is taking to regulate AI.
+What steps the Government is taking to regulate AI.
+What steps her Department is taking to regulate artificial intelligence.
+In our White Paper on AI regulation we set out our ambitious pro-regulation, pro-innovation framework, outlining five cross-sectoral principles to be applied by existing regulators.
+In February we published our response, setting out how we are supporting regulators to deliver the framework and strengthen our global AI leadership.
+That includes new funding and guidance for our regulators, and we have established a central risk function to support.
+Yet we heard just a few months ago from the Prime Minister that the UK’s answer is not to rush to regulate.
+The Competition and Markets Authority has been clear about the potential harms that unregulated AI could generate from baking in biases that affect certain demographics, and general purpose models that could get out of control.
+Why have the Government dragged their feet on safeguards for the most advanced AI models, or is the Secretary of State simply waiting for the next Labour Government to control the new AI models?
+Mr Speaker, this is absolute tosh.
+We have led the world when it comes to AI safety.
+We have set up a long-term process in the AI Safety Summit, and the next one will be in Seoul in just a few weeks.
+We have also set up the world’s first AI Safety Institute, which is testing both pre and post deployment.
+We have also been clear: we will not rush to legislate.
+We will grip the risks and better understand them, rather than produce out-of-date legislation as a gimmick.
+Tomorrow the TUC will officially launch its Bill on AI regulation and employment rights, which recognises that transparency, observability and explainability are all key elements of a fair and just workplace.
+What will the Government do to ensure that AI does not lead to a weakening of workers’ rights?
+We want to garnish the opportunities of AI for the British public, which include the comple- mentary aspect that it can pose for jobs, especially in teaching and medicine, by taking away some of the admin and bureaucracy.
+We are also very realistic that technology always changes labour market needs.
+In 1940, 60% of the jobs we now have did not exist.
+That is why we have undergone a revolution in our skills system, including the launch of the lifelong learning entitlement next year.
+It is all very well the Government saying that they will take their time over this response, but the point is that the Federation of Small Businesses is saying that a regulatory framework is urgent, and Dr Rogoyski of the University of Surrey is pointing out that delay could mean the UK probably having no choice but to follow the approach of the US and Europe on AI regulation.
+Can the Secretary of State set out exactly what the timeframe will be for regulation?
+The hon.
+Member is getting confused between regulation and legislation.
+We already have a plethora of regulation and world-leading regulators that we are supporting.
+We were clear in our White Paper response that we will legislate—as will every nation around the world—but we want to get that legislation right.
+She commented on the US’s approach.
+We are working hand in glove with the US, and I signed the world’s first memorandum of understanding on AI institutes just a few weeks ago.
+What assessments have the Government made of the United Nation’s plans to internationally regulate artificial intelligence?
+What are the implications for UK sovereign security?
+The UK Government are committed to unlocking the opportunities of AI, while mitigating the risks.
+That requires both domestic and international action.
+The UK is a leading voice internationally, having hosted the AI Safety Summit, which delivered the world-first Bletchley declaration, as well as actively participating at the UN.
+That includes our proactive role shaping UNESCO recommendations on AI ethics.

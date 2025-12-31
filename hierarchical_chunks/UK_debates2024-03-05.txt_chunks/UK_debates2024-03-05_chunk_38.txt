@@ -1,0 +1,86 @@
+Gearing Britain up for a self-driving future has been the work of years.
+In 2015, our world-leading code of practice enabled self-driving vehicle trials in the UK.
+We passed the Automated and Electric Vehicles Act 2018, which codified insurance in this area for the first time and recognised the importance of that, as  the hon.
+Member for Carmarthen East and Dinefwr (Jonathan Edwards)  said earlier.
+In that same year, we kicked off a Law Commissions review on a legal and safety framework for self-driving vehicles— rose— Let me just set out what that review did, then I will take an intervention from the hon.
+Gentleman, who is an esteemed member of the Select Committee.
+It convened legal minds from across the country, launched three rounds of public consultation, sifted through hundreds of written responses and produced more than 70 recommendations, which now underpin this legislation.
+I am grateful to the Secretary of State for giving way.
+These are really important points, as is the clarification sought by the hon.
+Member for Carmarthen East and Dinefwr on insurance liability.
+Can I ask the Secretary of State about the arrangements for the compensation of victims of any collisions that are caused by uninsured automated vehicles?
+He mentioned the Automated and Electric Vehicles Act 2018, but that legislation does not mention this point.
+This Bill represents an opportunity to address that.
+Will the Secretary of State set out how we are going to do that, or are we missing an opportunity?
+The hon.
+Gentleman is right to raise that point.
+We have arrangements in place for vehicles with human drivers who are uninsured, and we are working with the Motor Insurers’ Bureau on the arrangements that will be in place.
+I would envisage analogous arrangements for self-driving vehicles that are uninsured, to make sure that if they are involved in accidents, any victims of those accidents are able to receive reimbursement in the same way as happens now for the victim of an uninsured driver.
+We already have arrangements, and I would envisage analogous arrangements.
+We are already having those conversations, but if the hon.
+Gentleman has more to say on that, either today or in Committee, I will be delighted to hear from him— rose— I am happy to hear from him again now.
+I am grateful to the Secretary of State for that clarification, but this is a whole new world where we will be relying on AI, software and so on.
+How would an insurer prove that a vehicle was being driven autonomously rather than by a driver?
+Under the provisions of the Bill, would the insurer have access to the data so that they could analyse it and see whether an individual was in charge of a vehicle or whether it was being driven autonomously?
+I will come on to that in my speech, but I will answer the hon.
+Gentleman’s specific questions.
+From the point of view of any person needing to make a claim, the insurer will be liable whether the vehicle is in self-driving mode or the user is in charge.
+What happens subsequently, regarding whether the manufacturer,  the software provider or whoever has to pony up the money, is a matter for the insurer to argue about with them.
+That will not impact the victim, who will be paid by the insurer.
+On the hon.
+Gentleman’s important point about data, we discussed this last week when I met a roundtable of those involved in the industry, including road safety campaigners and those in the insurance industry.
+The Bill will ensure that the data can be shared, and the insurance industry is keen for that to happen so that it can properly price the risk.
+I will say more about this when I talk about the safety framework, but there is a real opportunity here because most road traffic collisions are caused at least in part by human error.
+The track record of self-driving vehicles shows that this is an opportunity to improve road safety, which is important not just for those who use vehicles but for other road users.
+There is a balance to strike here.
+We need to capture that benefit but also ensure that we do not leave anyone exposed without protection, as the hon.
+Gentleman rightly set out.
+On the point the Secretary of State has just been discussing, presumably the details of all journeys undertaken by automated vehicles will be recorded.
+Where will that data be stored, and who will have access to it?
+Could someone access that information for non-driving reasons—for example, someone involved in divorce proceedings or an employer in an employment tribunal?
+My right hon.
+Friend should note that data for these purposes will be protected in the usual way.
+Data has to be used for the purposes for which it was gathered.
+There are legal processes for who has access to it, as well as those we will set out specifically for driving purposes.
+The other things he mentioned will be governed by the usual laws that govern the use of data.
+I do not want to dwell on those specifics, but they are already covered by existing data protection legislation for the devices that people have in vehicles to monitor their progress or for mobile phones.
+I would like to start with safety.
+Anyone stepping into a self-driving vehicle will reasonably ask: “Can this car consistently drive safety?
+Will the law protect me if there is an accident?
+Is the manufacturer regulated and can they be held to account?”
+Under this legislation, the answer to each of those questions will be yes.
+The Bill has been built on a bedrock of safety, protecting not just the driver inside the car but road users outside the vehicle.
+As I mentioned in answer to  the hon.
+Member for Easington (Grahame Morris) , I chaired a roundtable with road safety groups last week and explained how we are holding self-driving vehicles to a higher safety standard than the average human driver, guided by principles we will soon consult on; how these vehicles must meet rigorous technical requirements before rolling off production lines and being authorised for our roads; and how we will tackle misleading marketing, with new offences for companies that seek to blur the line between true self-driving and driver assistance.
+That gets to the nub of the point.
+Because these vehicles are going to be automated, they will be governed by an algorithm written by a human  being somewhere remote from where an accident might occur.
+How do we determine whether the primary purpose of that algorithm is to protect the person in the car or someone outside the car, such as a pedestrian or a child crossing the road?
+How does the algorithm make a choice in those circumstances?
+We will consult on the statement of safety principles, which will set out the governing principles of the legislation.
+On the specifics, this will be about making sure that the manufacturers—those who create the software and those who put the cars together—have rigorous processes for testing and decision-making.
+Those systems will have to be authorised to be used in our cars, and it will be important to look at their data and their track records.
+As I say, in real-world situations where these vehicles are being used—for example, in California—the evidence suggests that they have a very good safety record that is much better than that of human drivers.
+There is a big opportunity here to have a safer road environment, not just for the users of the vehicles but for other road users.
+I do not know whether the hon.
+Gentleman has had the opportunity to ride in a self-driving vehicle, but the data they collect of their surroundings is interesting.
+My personal observation is that the space they give when passing a cyclist, for example, is a lot more generous than that I have seen many human drivers give.
+Of course, those parameters are going to be set and regulated, and people will have to be assured that the vehicles are safe before they are on the road.
+Ultimately, the manufacturer will be legally responsible if they turn out not to be.
+I am grateful to the Secretary of State for giving way a second time.
+I agree entirely that, overall, roads will be safer with automated vehicles, but there will still be accidents.
+My question was specifically about where there is an accident and there is a choice to be made about protecting the person inside the car and injuring someone outside the car.
+How do we determine what takes priority in those circumstances?
+We will consult on the safety principles, but with some of this stuff we have to look at the way the vehicles make decisions.
+We cannot possibly legislate for every single set of circumstances.
+In the same way, when there is a collision involving a vehicle with a human driver, the driver will make the best decision they can in the specific circumstances.
+Sometimes those situations lead to legal conflict and then people have to make a judgment.
+We cannot legislate for every single one of those circumstances in advance.
+What we can do is make sure there are robust systems that make good decisions based on the best data, and then look at the track record.
+We will also set up a regulatory system whereby any accident involving an automated vehicle will be properly investigated.
+The hon.
+Gentleman raises an important point.
+It is essential with this legislation that we earn the public’s trust and win their confidence.
+That is one of the reasons why we have been so clear, and why we accepted the amendments in the other place, about putting safety at the forefront of the Bill.
+If people are not persuaded of that, this technology will not make much progress.
+rose— I will take an intervention from my hon.
+Friend  the Member for North East Bedfordshire (Richard Fuller)  and then make some progress before continuing to take interventions.

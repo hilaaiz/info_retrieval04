@@ -1,0 +1,10 @@
+“green light to music laundering”.
+Can the Minister confirm that the Government will not undermine artists and musicians by exempting AI data mining from copyright restrictions?
+As the hon.
+Gentleman is probably aware, there are ongoing discussions between creative rights owners and the platforms and others through the Intellectual Property Office, but it has made clear that, unless permitted under licence or on exception, making copies under text and data mining will constitute copyright infringement.
+Does the Minister agree that the nature of AI systems is such that, when they are trained on creative works, both conscious and unconscious biases in music, films and art against certain groups in our society will be reinforced in generative outputs?
+The Government are seeking a code of conduct on copyright and AI; will they use this opportunity to address that issue and ensure that AI companies take responsibility for protecting against that type of harm?
+Is he considering an AI Bill, even though it was not announced in the King’s Speech?
+There is a great deal of work going on around AI to develop a framework of regulation, as was originally set out in the White Paper.
+The hon.
+Gentleman’s point about algorithmic bias is a serious one; it is being studied by the Centre for Data Ethics and Innovation, and obviously we will look very carefully at that.
