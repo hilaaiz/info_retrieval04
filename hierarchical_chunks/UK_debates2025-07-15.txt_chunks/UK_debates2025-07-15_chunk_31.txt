@@ -1,0 +1,101 @@
+Members of this House—including you, Mr Speaker, and me—have been subject to the super-injunction.
+It is unprecedented.
+To be clear, the Court has always recognised the parliamentary privilege of proceedings in this House, and Ministers decided not to tell parliamentarians about the data incident at an earlier stage, as the widespread publicity would increase the risk of the Taliban obtaining the dataset.
+However, as parliamentarians and as Ministers, it has been deeply uncomfortable to be constrained from reporting to this House.
+I am grateful to be able to disclose the details to Parliament today.
+I trust that you, Mr Speaker, and Members will bear with me if I take the time to ensure that the House now has the fullest information possible, as I discussed with you yesterday.
+The facts are as follows.
+In February 2022, 10 months after the then Defence Secretary, Ben Wallace, introduced the Afghan relocations and assistance policy and six months after the fall of Kabul, a Defence official emailed an ARAP case working file outside authorised Government systems.
+As the House knows, ARAP is the resettlement scheme that this country established for Afghan citizens who worked for, or with, our UK armed forces over the combat years in Afghanistan.
+Both in opposition and in government, Labour has backed that scheme, and ARAP has had full support from across this House.
+The official mistakenly believed that they were sending the names of 150 applicants.
+However, the spreadsheet in fact contained personal information associated with 18,714 Afghans who had applied to either the ex gratia scheme or the ARAP scheme on, or before,  7 January 2022 .
+It contained names and contact details of applicants and, in some instances, information relating to applicants’ family members.
+In a small number of cases, the names of Members of Parliament, senior military officers and Government officials were noted as supporting the application.
+This was a serious departmental error.
+It was in clear breach of strict data protection protocols, and was one of many data losses relating to the ARAP scheme during this period.
+Ministers in the previous Government first became aware of the data loss in mid-August 2023, 18 months after the incident, when personal details of nine individuals from the dataset appeared online.
+Action was taken to ensure they were swiftly removed, an internal investigation was conducted, and the incident was reported to both the Metropolitan police and the Information Commissioner.
+The Met deemed that no criminal investigation was necessary, and the Information Commissioner has continued to work with the Department throughout.
+However, journalists were almost immediately aware of the breach, and the previous Administration applied to the High Court for an injunction to prevent the data  loss becoming public.
+The judge deemed that the risk warranted going further and, on  1 September 2023 , granted a super-injunction, which prevented disclosure of the very existence of the injunction.
+That super-injunction has been in place for nearly two years, during which time eight media organisations and their journalists were served to prohibit any reporting.
+No Government wish to withhold information from the British public, parliamentarians or the press in this manner.
+In autumn 2023, previous Ministers started work on establishing a new resettlement scheme specifically designed for people in the compromised dataset who were not eligible for ARAP but who were nevertheless judged to be at the highest risk of reprisals by the Taliban.
+It is known as the Afghanistan response route, or ARR.
+It was covered by the super-injunction.
+The then Government initially established the ARR to resettle a target cohort of around 200 principals, but in early 2024 a combination of Ministers’ decisions on the scheme’s policy design and the court’s views had broadened that category to nearly 3,000 principals.
+I want to provide assurance to the House and the British public that all individuals relocated under the Afghanistan response route, ARAP or the Home Office’s Afghan citizens resettlement scheme undergo strict national security checks before being able to enter our country.
+The full number of Afghan arrivals under all schemes has been reported in the regular Home Office statistics, meaning that they are already counted in existing migration figures.
+As shadow Defence Secretary, I was initially briefed on the ARR by James Heappey, the former Armed Forces Minister, on  12 December 2023 , and issued with the super-injunction at the start of that meeting.
+Other members of the present Cabinet were only informed of the evidence of the data breach, the operation of the ARR, and the existence of the super-injunction on taking office after the general election.
+By that time, the ARR scheme was fully established and in operation, and it was nearly two and a half years since the data loss.
+I have felt deeply concerned about the lack of transparency to Parliament and to the public.
+I felt it only right to reassess the decision-making criteria for the ARR.
+We began, straightaway, to take a hard look at the policy complexities, costs, risks, court hearings and the range of Afghan relocation schemes being run by the previous Government.
+Cabinet colleagues endorsed the need for new insights in the autumn of last year, while the scheme kept running.
+In December 2024, I announced the streamlining of the range of Government schemes that we inherited into the Afghan resettlement programme to establish better value for money, a single set of time-limited entitlements and support to get Afghan families resettled.
+On behalf of the House, I sincerely thank our colleagues in local government, without whom this unified resettlement programme would simply not have been possible.
+At the beginning of this year, I commissioned Paul Rimmer, a former senior civil servant and ex-deputy chief of Defence Intelligence, to conduct an independent review.
+The review was concluded and reported to Ministers last month.
+Today I am releasing a public version of Rimmer’s review, and I am placing a copy of it in the Library of the House.
+I am very grateful to him for his work.
+Despite brutal human rights abuses in Afghanistan, the Rimmer review notes the passage of time—it is nearly four years since the fall of Kabul—and concludes: “There is little evidence of intent by the Taleban to conduct a campaign of retribution against” former officials.
+It also concludes that those who pose a challenge to the Taliban rule now are at greater risk of a reaction from the regime, and that “the wealth of data inherited from the former government” by the Taliban “would already enable them” to target individuals if they wished to do so, which means that it is “highly unlikely” that merely being on the spreadsheet “would be the…piece of information enabling or prompting the Taleban to act.”
+Rimmer is clear: he stresses the uncertainty in any judgments and does not rule out any risk.
+Yet he concludes that, given this updated context, the current policy that we inherited “appears an extremely significant intervention…to address the potentially limited net additional risk the incident likely presents.”
+The Rimmer review is a very significant element, but not the sole element, in the Government’s decision to change policy, to close the ARR and to ensure that the court order is lifted today.
+Policy concerns about proportionality, public accountability, cost and fairness were also important factors for the Government.
+This was not a decision taken lightly; it follows a lengthy process, including the Rimmer review, detailed ministerial discussions and repeated consultations with legal advisers.
+Just as I have changed Government policy in the light of the review, the High Court today, in the light of the review, ruled that there was no tenable basis for the continuation of the super-injunction.
+To date, 900 ARR principals are in Britain or in transit, together with 3,600 family members, at a cost of about £400 million.
+From today, there will be no new ARR offers of relocation to Britain.
+From today, the route is closed.
+However, we will honour the 600 invitations already made to any named persons still in Afghanistan and their immediate family.
+When this nation makes a promise, we should keep it.
+Today I am also restoring full accountability for the Government’s Afghan relocation schemes to Parliament, and I would expect our Select Committees now to hold us to account through in-depth inquiries.
+Let me turn to the practical action that we have taken as a result of this policy change and in preparation for the lifting of the court’s super-injunction.
+My first concern has been to notify as many people as possible who are affected by the data incident and to provide them with further advice.
+The Ministry of Defence has done that this morning, although it has not been possible to contact every individual on the dataset, owing to its incomplete and out-of-date information.
+Anyone who may be concerned can head to our new dedicated gov.uk website, where they will find more information about the data loss; further security advice; a self-checker tool, which will inform them whether their application has been affected; and contact steps for the detailed information services centre that the MOD has established.
+This serious data incident should never have happened.
+It may have occurred three years ago, under the previous Government, but to all those whose information was  compromised I offer a sincere apology today on behalf of the British Government, and I trust that the shadow Defence Secretary, as a former Defence Minister, will join me in that.
+To date, 36,000 Afghans have been accepted by Britain through the range of relocation schemes.
+Britain has honoured the duty we owe to those who worked and fought alongside our troops in Afghanistan.
+The British people have welcomed them to our country, and in turn, this is their chance to rebuild their lives, their chance to contribute to and share in the prosperity of our great country.
+However, none of these relocation schemes can carry on in perpetuity, nor were they conceived to do so.
+That is why we announced on  1 July  that we would no longer accept new applicants to ARAP.
+However, I reiterate the commitment that we made then to processing every outstanding ARAP application and relocating those who might prove eligible, and we will complete our commitment to continuing the review of the Triples.
+I recognise that my statement will prompt many questions.
+I would have liked to settle these matters sooner, because full accountability to Parliament and freedom of the press matter deeply to me—they are fundamental to our British way of life.
+However, lives may have been at stake, and I have spent many hours thinking about this decision; thinking about the safety and the lives of people I will never meet, in a far-off land in which 457 of our servicemen and women lost their lives.
+So this weighs heavily on me, and it is why no Government could take such decisions lightly, without sound grounds and hard deliberations.
+During the last year we have conducted and now completed this work.
+I commend my statement to the House.
+I am grateful to the Secretary of State for advance sight of his statement and for receipt earlier this morning of a hard copy of the Rimmer review.
+I also thank the Secretary of State and the Minister for the Armed Forces for briefing me yesterday and other parliamentary colleagues today.
+Furthermore, given the nature of the super-injunction and the fact that the timing and nature of the statement relate entirely to the court’s lifting of that super-injunction, I recognise that it was entirely right for the Secretary of State to update the House at the earliest opportunity, and I welcome the opportunity that colleagues now have to scrutinise these matters.
+Let me begin by declaring an interest.
+I was a Defence Minister in August 2023, when the Department first became aware of the breach, my main role being to chair one meeting on the matter in August 2023 because I was the duty Minister.
+Thereafter, however, as Minister for Defence Procurement and with this sitting outside my portfolio, I had relatively minimal direct involvement.
+That said, the Secretary of State has issued an apology on behalf of the Government and I join him in that, and in recognising that this data leak should never have happened and was an unacceptable breach of all relevant data protocols.
+I also agree that it is right for an apology to be issued specifically to those whose data was compromised.
+It is nevertheless a fact that cannot be ignored that when this breach came to light, the immediate priority of the then Government was to avoid a very specific and terrible scenario: namely, an error on the part of an  official of the British state leading to the torture, or even murder, of persons in the dataset at the hands of what remains a brutal Taliban regime.
+As the Rimmer review confirms, that scenario, thankfully, appears to have been avoided.
+Of course, we understand that the review was set up in January and reported to the Secretary of State in June.
+I want to be clear that it is entirely appropriate that the Secretary of State has sought to update the Department’s understanding of the threat on the ground in Afghanistan that exists today, particularly for those persons in the dataset who had previously been considered to be at the greatest risk of reprisals.
+However, the House will appreciate that when Ministers became aware of the data breach in August 2023, we did not have the luxury of six months in which to assess the situation.
+As Rimmer says in paragraph 53: “The review notes that the passage of time is particularly relevant.”
+I know that my former ministerial colleague—the former Minister for the Armed Forces, James Heappey, who led the response to the leak—will have been focused entirely on what he saw as his duty of care to those at risk of reprisals, based on the threat assessment that pertained at the time.
+However, any threat picture is constantly evolving, and as I say, I support the Secretary of State’s decision to review the MOD’s understanding of the threat.
+Given the latest situation, as reported by Rimmer, we support his conclusion that the Afghanistan response route can now be closed.
+Turning to the super-injunction, I entirely understand why this would be a subject of considerable interest, particularly to the newspapers and media outlets concerned.
+We have an independent judiciary, and it is not for me to comment either on the decision to grant the injunction in the first place or to lift it today, but it is surely telling that paragraph 56 of the Rimmer review states that planning at the time that the Government became aware of the breach in the summer of 2023 was based on a “risk judgement that were the Taleban to secure access to the dataset, the consequences for affected individuals may be serious.”
+Had that not been the case, no doubt the Court would have been less likely to grant the injunction, and certainly not a super-injunction.
+On the leak, can the Secretary of State confirm that it was by a civil servant, and that Ministers at the time took steps to change the casework procedure by not using spreadsheets sent by email, but moving to a more secure system fully within the entirely secure network?
+Can he confirm that, although the dataset was of about 18,000, only a relatively small portion were identified as at high risk of reprisals, and only a small number had been settled here, which is why, as he stated, the cost is about £400 million, not the £7 billion reported elsewhere?
+Now that these matters are rightly in the public domain and given the reassessment of the threat in the Rimmer review, I agree that it would be wholly appropriate for the Defence Committee and others to look further into these matters.
+Can the Secretary of State comment on one specific item being reported, which is that someone—I refer not to the person who made the leak, but another apparent third party who obtained some of the data—was engaged  in blackmail?
+Did the original Metropolitan police investigation look at that, and if not, will he consider reopening it so that the police can look at that specific point, which has serious implications?
+Although we must recognise the huge role played by Afghan nationals in support of our armed forces, any policy in this area must always be balanced against our own national interest.
+We support the Government in closing the ARR scheme, as we did with their decision to close the full ARAP programme.

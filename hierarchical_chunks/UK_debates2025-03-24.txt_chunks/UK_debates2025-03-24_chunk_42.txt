@@ -1,0 +1,44 @@
+I begin by acknowledging the disruption to everyone affected by this incident.
+Many homes, schools and businesses temporarily lost power, some families have had to evacuate their homes, and many thousands have had their travel plans impacted.
+I thank the firefighters and emergency responders who worked in difficult conditions to put the fire out, as well as Heathrow, the National Grid and all the other public services involved for working so hard to get power back on and people back travelling again.
+This was an unprecedented event, and we must learn any and all lessons we can to ensure that it does not recur.
+Let me begin by setting out what we currently know about the cause of the incident.
+A large fire broke out at North Hyde substation at 11.30 pm on  Thursday 20 March , and was brought under control the following day.
+Due to the impacts, Heathrow airport announced at 4.30 am on Friday that it would close until midnight that day.
+Power was restored to domestic customers in a matter of hours, after the operator of the local distribution network, Scottish and Southern Electricity Networks, redistributed power through other parts of the network.
+By comparison, Heathrow is one of the country’s biggest consumers of electricity and requires as much power as a small city.
+What we know is that there was an unprecedented outage, and that it was not the result of a single point of failure on the electricity transmission or distribution system.
+The feed from North Hyde substation is one of three supply points to Heathrow, and the fire caused exceptional damage that took the whole substation out of service.
+The other supply points continued supplying to Heathrow airport throughout the incident.
+Heathrow’s view was that that supply was insufficient to ensure the safe and secure ongoing operation of all systems across the whole airport.
+It proceeded to reconfigure its internal electricity network to enable the resumption of full operations, utilising the other two external supply points.
+That required hundreds of systems to be safely powered down, and then safely powered up, with extensive testing.
+The airport has a range of back-up generators and uninterruptible power supplies, including diesel generators, to provide power to essential systems to enable them safely to land planes.
+Those back-up systems ensured that safety and security systems and protocols were maintained at all times, but they were never designed to support full operation of the whole airport.
+By 2.30 on Friday afternoon, Heathrow began restarting systems to ensure that they were safely operating.
+By 4 pm, the airport was 100% confident that all systems were safely operating across the whole network, and announced that some flights would be able to restart that day.
+The first flights, from about 6 pm, were so-called positioning flights, which were to get aircraft and crew to the right places to resume normal operations the following day.
+That was followed by flights diverted to UK and non-UK airports, to allow passengers to be repatriated, and a small number of outbound long-haul flights.
+Since Saturday,  Heathrow has been fully operational, with more than 250,000 passengers able to fly to and from the airport on Saturday.
+Due to knock-on impacts of the event, there continued to be some delays and cancellations over the weekend.
+Overall, the impact of Heathrow’s closure led to over 1,300 flights and more than 200,000 passengers having their flights cancelled or diverted on Friday, and a further 110 cancelled on Saturday.
+The Government are acutely aware of the need to ensure that passengers are well looked after and their consumer rights protected.
+This is why UK law ensures that airlines must provide passengers with a refund within seven days, or passengers must be rerouted to their destination under the same conditions.
+We are closely monitoring to ensure that passengers are properly supported.
+To support the recovery, my Department temporarily lifted restrictions on overnight flights, to ease congestion.
+Heathrow and airlines also added extra capacity into the system to help affected passengers.
+We allowed rail tickets to be used flexibly to help passengers who were not able to use their original tickets.
+Regarding the cause of the fire, the Metropolitan police confirmed that the fire is not believed to be suspicious.
+However, due to the location of the substation and the impact that this incident has had on critical national infrastructure, the Met’s counter terrorism command is leading our inquiries into this matter.
+This is due to the specialist resources and capabilities within that command, which can assist in progressing the investigation at pace to help minimise disruption and identify the cause.
+It would not be appropriate to comment further while these investigations continue, but we will of course update the House once it is appropriate to do so.
+Although it is positive that electricity supplies were restored quickly, there will be learnings to ensure that we avoid such incidents reoccurring.
+That is why on Saturday, my right hon.
+Friend the Secretary of State for Energy Security and Net Zero, working with Ofgem, commissioned the independent National Energy System Operator to urgently investigate the incident.
+The review will also seek to understand any wider lessons to be learned for energy resilience for critical national infrastructure.
+NESO has been asked to report back to the Department for Energy Security and Net Zero with initial findings within six weeks.
+In addition, Heathrow has asked Ruth Kelly, a former Secretary of State for Transport and an independent member of Heathrow’s board, to undertake a review of its internal resilience.
+The Kelly review will analyse the robustness and execution of Heathrow’s crisis management plans, the airport’s response, and how it recovered the operation.
+Colleagues across the House will appreciate that we do not yet know everything there is to know about the incident, but I will try to answer questions from hon.
+Members in as much detail as possible based on the latest information I have at my disposal.
+I commend the statement to the House.

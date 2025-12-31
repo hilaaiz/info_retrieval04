@@ -1,0 +1,2 @@
+Mr. Freeman invented the Field Programmable Gate Array (FPGA), a computer chip which revolutionized programming as we know it.
+The FPGA created what came to be known as ``open gates,'' which allowed engineers brand new reprogramming capabilities to adapt to changing standards and specifications and make last second changes to designs.

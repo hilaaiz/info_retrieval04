@@ -1,0 +1,3 @@
+The framework promotes the idea of students taking mathlite data science courses instead of Algebra II.
+Students who take such math-lite courses will be ill-prepared for math and other STEM courses when they get to college.
+In his report on an earlier draft of the math framework, Conrad says of the promotion of these data science classes: ``Whatever author is responsible for such a myopic view of mathematics should never again be involved in the setting of public policy guidance on math education.''

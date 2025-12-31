@@ -1,0 +1,103 @@
+I rise to speak on behalf of His Majesty’s official Opposition in support of the Rare Cancers Bill, and to welcome its thoughtful and necessary intervention on behalf of a group of patients who have been under-researched, under-represented, and under-acknowledged for too long.
+I commend  the hon.
+Member for Edinburgh South West (Dr Arthur)  on bringing this Bill forward, and on his ongoing dedication to the issue.
+The case for the Bill is clear: rare cancers—defined, in line with the UK rare diseases framework, as conditions affecting fewer than one in 2,000 people—are individually uncommon but collectively account for more than 20% of all cancer diagnoses.
+However, as we know, patients with rare cancers routinely face delayed diagnosis, limited treatment options and far fewer opportunities to participate in clinical research.
+The Bill does not claim to be a silver bullet, but it does mark a significant step forward in how we think about and legislate for research, regulation and data access in rare cancer care.
+It is focused, proportionate and strategically aligned with the existing NHS and National Institute for Health and Care Research frameworks.
+Clause 1 places a duty on the Secretary of State to carry out a review of the law relating to marketing authorisations for orphan medicinal products that are for the diagnosis, prevention or treatment of cancer.
+It also rightly requires that the review includes comparisons with regulatory approaches in other countries.
+This is vital.
+The explanatory notes rightly observe that research into rare cancers is often commercially unattractive because of small patient populations and high developmental costs.
+If our regulatory environment creates further barriers to entry, patients suffer—not because the science does not exist but because the system does not support it.
+The UK’s current approach to orphan designation lacks the pre-authorisation incentives found in systems such as the European Medicines Agency and the US Food and Drug Administration.
+The review required under the Bill is the opportunity to ask whether we are doing enough to attract the research and development that rare cancer patients deserve.
+I am not quite sure whether my hon.
+Friend is responding to the amendments or making a Third Reading speech.
+I hope he will address the amendments I have tabled, including those that relate to clause 1, about which he has just spoken.
+If my hon.
+Friend bears with me, I will turn directly to his amendments.
+It is important to first set out the context, because we must understand the clauses if we are to debate the amendments to them.
+Clause 2 makes crucial changes to the Secretary of State’s duty under the National Health Service Act 2006 by stating explicitly that it must include research into cancers that, in the opinion of the Secretary of State, are rare.
+Although this matters, the research agenda is often driven by numbers and funding scales.
+By mandating that rare cancers be part of the agenda, the Bill begins to shift the culture towards inclusion, equity and long-term thinking.
+I particularly welcome the creation of the national specialty lead for rare cancers, modelling the NIHR’s existing structure of research delivery leaders.
+This individual will be tasked with promoting and facilitating research, advising on trial design and convening collaboration.
+The success of this role will depend on it not just being symbolically supported but having a clear remit, adequate funding and a strategic alignment with the wider NIHR research delivery network.
+Clause 3 amends section 261 of the Health and Social Care Act 2012 to allow NHS England to disclose information from cancer registries for the purpose of identifying and contacting potential clinical trial participants.
+This is a significant and necessary step.
+The Bill distinguishes between a disease registry, like the National Disease Registration Service, and a contact registry, such as Be Part of Research.
+Making sure that these systems can speak to each other will be of significant benefit when it comes to matching patients with opportunities.
+Importantly, the clause reaffirms that any such data sharing must remain compliant with the Data Protection Act 2018.
+As proposed new subsection 6A to the 2012 Act makes clear, “A power conferred by this section to process information does not authorise the processing of information which would contravene the data protection legislation”.
+This is a safeguard that we must preserve, not weaken, if we are to maintain public trust in the system.
+At this point I turn to the amendments tabled by my hon.
+Friend  the Member for Christchurch (Sir Christopher Chope) .
+He approaches private Members’ Bills in the way that a jeweller examines diamonds—with a magnifying glass, a steady hand and absolutely no tolerance for flaws.
+We may grumble as the clock ticks on, but deep down we all sleep better knowing that he is reading the footnotes.
+This Bill is no different; he has approached it with rigour, and I thank him for his commitment to precision and improving clarity and accountability.
+As he pointed out, the Bill is not trivial.
+Therefore, it is not only right, but indeed the duty of this House, to scrutinise closely legislation and amendments laid before us.
+To that end, several of the amendments aim to tighten the Bill’s drafting or introduce firmer deadlines.
+For example, amendment 4 would reduce the timeframe for the review under clause 1 from three years to two.
+Amendment 2 would require the Secretary of State to “set out a timetable for implementing any changes in the law recommended by the review.”
+I understand the concern that reviews can drift, but the three-year period reflects the complexity of the subject: a UK-wide review of the Human Medicines Regulations 2012, including benchmarking against other jurisdictions and engaging multiple agencies.
+Compressing the timeline might jeopardise the depth or quality of the analysis.
+Likewise, a statutory timetable for implementation could constrain the Government prematurely, before the review’s conclusions are even known.
+I am very grateful to my hon.
+Friend for his unprompted comments.
+He will know that the funding is sufficient to staff the review only for one year.
+If there is only funding for one year, why does it take three?
+My hon.
+Friend knows, far better than I, not to look at legislation in isolation.
+The Government will at some point bring forward the cancer plan, which will have a direct crossover with the Bill, so it is right to give the Government the freedom and space to implement the legislation.
+If we rush it, we could get it wrong, which would be even more detrimental for those who suffer with rare cancers.
+Other amendments address definitions and discretion.
+For example, amendment 5 would remove “in the opinion of the Secretary of State” from the definition of rare cancer, and amendment 8 would remove similar wording in relation to NHS England’s discretion.
+At first glance, the amendments may seem like matters of tidy drafting, but retaining discretion is important, especially as regards rare cancers.
+Prevalence data can be uncertain or lagging, and flexibility allows for expert judgments about edge cases in which rigid definitions may unintentionally exclude patients from trials or research that could benefit them.
+On top of that, there are concerns even about simple definitions.
+We are still exploring the difference between, for example, pre-cancerous and cancerous cells.
+If someone goes for a smear, that is what they are told.
+This is a new area.
+Who knows what will come up in the future?
+Simply defining rare cancers on the basis of lagging prevalence data is a risk, and it is therefore right that the Government and the Secretary at State have discretion to direct in one way or another.
+However, I would grateful if the Government would answer the question, which has been rightly posed, of who or what will fill the role when NHS England is abolished.
+It is not clear exactly what that will look like.
+I have asked the Minister this question several times, in relation to the Mental Health Bill and other areas, and it is a question that this House should rightly ask.
+Who will be responsible for what, when and why?
+That said, amendment 7, which would ensure that the proposed national specialty lead is appointed within six months of Royal Assent, deserves serious consideration.
+Patients have waited long enough.
+If the Government are confident that the post can be established promptly and resourced effectively, I would welcome that ambition being stated at the Dispatch Box today.
+Finally, I must express my concern about amendment 9, which proposes to remove the data protection safeguard in clause 3(4).
+Although the provision may be declaratory, in that it reaffirms existing legal obligations, it none the less offers clarity and reassurance.
+In an area as sensitive as health data, such clarity matters, and the subsection’s removal could cause unnecessary concern, even if the underlying law remains unchanged.
+In conclusion, this Bill is not about grandstanding.
+It is modest in financial cost, careful in its drafting and realistic in its scope, but its impact could be significant.
+For patients living with rare cancers, and clinicians and researchers striving to support them, the Bill offers real hope—hope for faster access to innovation, hope for more inclusive research and hope for a regulatory system that works for the many, not just the minority.
+Every patient matters, whether they are one in two or one in 2,000.
+As we stated on Second Reading and in Committee, we support the Bill, and I thank the House for giving me the chance to explain why.
+I am grateful to my hon.
+Friend  the Member for Edinburgh South West (Dr Arthur)  for bringing this Bill before the House, and I congratulate him on getting it to Report.
+Amendment 1 allows amendment 2 to be inserted into the Bill.
+Amendment 2 would require the Secretary of State, having carried out the review described in clause 1, to set out a timetable for implementing changes to the law recommended by the review.
+However, it would not be appropriate to presume the outcome of the review of orphan drug regulations that is outlined in clause 1.
+Amendment 2 presupposes that the review will recommend changing the law, and that there are changes the Secretary of State would be willing to support, following a legal consultation.
+That is not considered appropriate at this stage.
+Amendment 3 is unnecessarily restrictive, introducing wording that confines the review unnecessarily.
+We want to ensure that a thorough review is conducted, and my hon.
+Friend the Minister for Secondary Care will be working with her officials to ensure that that happens.
+For amendment 4, the three-year timeframe to prepare and publish the review and the necessary resourcing requirements have been discussed with officials in my Department and at the Medicines and Healthcare products Regulatory Agency.
+I remind Members that the text in the Bill reflects the statutory deadline, but we will endeavour to publish a report ahead of the three-year timeframe, which has been put forward to be consistent with the MHRA’s overall workplan.
+On amendment 5, there are different definitions of a rare cancer, and we worked with my hon.
+Friend the Member for Edinburgh South West to agree the definition in the Bill as a cancer that affects not more than one in 2,000 people in the UK.
+However, a level of discretion for the Secretary of State is required over what falls within that definition, since the facts underlying and the data on diagnoses are constantly changing.
+The amendment would make it difficult to implement the clause in practical and operational terms.
+Amendment 6 would remove the ability of the Secretary of State to exercise discretion as to how their duty would be discharged.
+This is not considered appropriate, since it makes the operation of clause 2 less workable in practice, and would lack the Government’s assessment of what in all the circumstances would be the most appropriate manner of implementation.
+Amendment 7 would introduce a specific timeframe—just six months—to allow the appointment of the specialty lead.
+Although I agree that we will need to appoint the specialty lead promptly, introducing a statutory timeframe is not considered workable for practical reasons.
+There could be unforeseen delays; for example, recruitment processes might delay the appointment beyond six months.
+On amendment 8, as mentioned previously there are different definitions for a rare cancer.
+That is because the data on cancer diagnoses is constantly changing, and decisions on whether the criteria for a rare cancer are met will inevitably involve an element of judgment.
+The amendment would make it difficult to implement the clause in practical and operational terms.

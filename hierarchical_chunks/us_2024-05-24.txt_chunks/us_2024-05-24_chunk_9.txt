@@ -1,0 +1,12 @@
+Crypto is the currency of choice for our foreign adversaries, terrorist groups, drug and human traffickers, child sex abusers, and ransomware attackers.
+These bad actors chose to use crypto because they know the industry does comply with securities laws and regulations, allowing the groups to circumvent regulatory, supervisory, and enforcement regimes.
+Congress should be considering legislation that will make it harder for these bad actors to access currency, not allowing loopholes to persist.
+We must ensure to be sure that crypto is not used as the black market for bad actors.
+Crypto asset platforms, where customers buy and sell crypto assets, are known to use vertical product and service integration, creating conflicts of interests for the platforms.
+Some crypto asset platforms blend exchange, brokerage, market making, and clearing agency functions in their platform.
+This vertical integration of products and services has long been prohibited in traditional markets because it leads to risks for investors.
+We saw this loophole exploited in 2022 when FTX's CEO, Sam Bankman-Fried, used its affiliated trading firm, Alameda Research, as a market maker, allowing FTX to transfer billions of dollars in customer accounts to Alameda.
+Sam Bankman-Fried is now serving a 25-year prison sentence for defrauding consumers.
+H.R. 4763 bakes in these existing conflicts of interest, allowing crypto asset platforms like FTX to continue to work against their customers' best interest for their own gains.
+Rather than putting forward a bill that would severely undermine the functioning of our capital markets, Congress should instead consider a comprehensive regulatory framework for crypto that will promote the responsible development of these digital assets while protecting American consumers and investors.
+I urge my colleagues to reject H.R. 4763.

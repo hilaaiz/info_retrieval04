@@ -1,0 +1,49 @@
+Thank you, Mr Speaker.
+I fully recognise the anxiety and deep concern that employees at Jaguar Land Rover and across the supply chain will be feeling.
+The Government and the National Cyber Security Centre will do everything in our power to help resolve this as soon as possible.
+We are engaging with JLR on a daily basis to understand the challenges that the company and its suppliers are facing, and we are monitoring the situation closely.
+I have spoken to the company myself, and I will have a further meeting with the chief executive officer later this week.
+I understand that the company has also invited local MPs to a question and answer session this Friday.
+The National Cyber Security Centre has been working with Jaguar Land Rover since last Wednesday to provide support in relation to the incident.
+I am sorry that there is a limit to what I can say on the specifics because I do not want to prejudice the ongoing investigations.
+The cyber-security of the UK, however, is a key priority for the Government—crucial to protecting the public, our way of life and the successful growing economy.
+We have been taking significant action to help protect businesses against cyber-attacks.
+We are reducing cyber-risk across the economy by making technology more secure by design.
+That includes the Product Security and Telecommunications Infrastructure Act 2022, introduced by the previous Government, which requires manufacturers to build security into the manufacture and operation of internet-connected devices; the software security code of practice, which sets out how vendors and developers should make their software more secure; and the AI cyber-security code of practice, which sets out how AI developers should design and operate AI systems securely.
+We are also providing businesses with the tools, advice and support to protect themselves from cyber-threats.
+That includes the cyber governance code of practice, which shows boards and directors how to effectively manage the digital risks to their organisations; the highly effective cyber essentials scheme to prevent common attacks, reducing the likelihood of a cyber insurance claim by 92%; and a wide range of free tools and support from the National Cyber Security Centre, including training for boards and staff, the “Check Your Cyber Security” tools to test IT systems for vulnerabilities, and the early warning system to get notified about cyber-threats to networks.
+I urge all businesses to take up these tools and improve their cyber-defences.
+It is not for me to announce future business of the House, but when parliamentary time allows the Government will introduce the cyber-security and resilience Bill to raise cyber-security standards in critical and essential services, such as energy, water and the NHS.
+I am grateful to you, Mr Speaker, for granting this urgent question—as a north-west MP, you know what a large employer
+JLR is in the region.
+As we have heard, this serious cyber-attack on Jaguar Land Rover has stopped production and halted sales, and staff have been instructed to stay at home.
+The car plants at Halewood in my constituency and in Solihull, and other production facilities around the world, have been unable to operate.
+From what has been reported, JLR shut down its IT systems in response to the attack.
+I believe that dealerships have been unable to register new cars and—initially, at least—garages that maintain JLR vehicles were unable to order the parts they needed.
+The JLR Halewood plant in my constituency is an important and valued employer.
+Many of my constituents are employees, which is also the case for my neighbouring Merseyside MPs.
+Thousands of jobs in the supply chain have been affected.
+I am disappointed that despite the cyber-attack happening just over a week ago to one of our most important businesses, which has nearly 33,000 direct employees and, of course, a huge supply chain, no statement has been made to Parliament on what actions have been taken to help the company or to prevent future attacks.
+The latest attack raises wider issues following on from the attack on Marks & Spencer.
+The two instances in themselves are very worrying.
+One would like to believe that all companies reviewed their cyber-security after the M&S attack.
+If these attacks continue, there could be an ongoing and even more serious effect on our economy.
+What are the Government doing to help protect our businesses from cyber-crime?
+I have heard what the Minister has said today, but it is in our national security interest for them to work closely with business.
+Is there an underlying weakness in how business is dealing with cyber-security?
+In that regard, we heard from Ciaran Martin, former head of the National Cyber Security Centre, on the “Today” programme this morning, suggesting that companies are perhaps focusing more on protecting customer data at the expense of the security of their operations.
+This House needs to hear more in the coming months about what the Government are doing to work with business and to help prevent these attacks being successful, because they are a threat to our economy and to national security.
+First, I commend my hon.
+Friend on seeking this urgent question and you, Mr Speaker, on granting it.
+My hon.
+Friend makes the important point that Jaguar Land Rover is not only an iconic national brand, but a very significant employer—it employs 34,000 people in the UK, including in his constituency, and 39,000 worldwide.
+He is right that we need to ensure that cyber-security is something that every company in the land take seriously, and every public sector organisation.
+In my previous ministerial role I was conscious of the attack on the British Library, which was actually one of the most financially significant attacks heretofore, and it pointed the way for some of the other issues arising across the economy, which is why we have been keen to bring forward a Bill on this, as stated in the King’s Speech.
+We will introduce such a Bill “soon”—I think I can get away with that with the Chief Whip and the Leader of the House, although, in the words of Humpty Dumpty, when I use a word it means precisely what I choose it to mean, no more and  certainly no less.
+As my hon.
+Friend says, there are serious issues that we need to address across the whole of the economy to ensure that we get this right.
+My hon.
+Friend pointed to one person; I point to another—Richard Horne, the chief executive officer of the National Cyber Security Centre—who recently stressed that the UK faces increasingly hostile activity in cyber-space.
+We simply cannot afford any degree of complacency in this.
+There are major criminals operating in this space, as well as some malicious state actors, and some 40% of companies in the UK reported last year that they had faced some kind of cyber-attack.
+It is a very important issue that we take seriously.
