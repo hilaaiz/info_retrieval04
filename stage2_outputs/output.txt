@@ -1,0 +1,67 @@
+📊 Loaded data summary:
+   • Total chunks: 27946
+   • Chunking methods: ['fixed_660' 'hierarchical']
+   • Country distribution: {'UNKNOWN': 13979, 'US': 11332, 'UK': 2635}
+
+⏳ Processing: fixed_660
+      Chunks in this method: 3605
+⏳ Processing: hierarchical
+      Chunks in this method: 24341
+
+======================================================================
+📊 DATE EXTRACTION ANALYSIS
+======================================================================
+   Total chunks processed: 27946
+   ✅ Successful: 13318 (47.7%)
+   ❌ Failed: 14628 (52.3%)
+
+   Strategies used (successful extractions):
+      • regex: 9552 chunks (avg confidence: 0.77)
+      • dateutil: 2989 chunks (avg confidence: 0.70)
+      • spacy: 777 chunks (avg confidence: 0.80)
+
+   Confidence distribution:
+      High (>0.85): 3775
+      Medium (0.65-0.85): 4852
+      Low (<0.65): 4691
+
+   By country:
+      • UK: 2323/2635 (88.2%)
+      • US: 5323/11332 (47.0%)
+      • UNKNOWN: 5672/13979 (40.6%)
+======================================================================
+
+
+======================================================================
+📊 TEMPORAL INDEX STATISTICS
+======================================================================
+   Total chunks: 27946
+   Chunks with valid dates: 13318 (47.7%)
+   Chunks without dates: 14628
+
+   📅 Date range: 0100-01-01 to 7318-01-01
+     📈 Year distribution:
+      0100: 28 chunks
+      0103: 3 chunks
+      0105: 2 chunks
+      0108: 1 chunks
+      0110: 1 chunks
+      ........
+
+
+   🌍 Country distribution:
+      UK: 2635
+      UNKNOWN: 13979
+      US: 11332
+
+   🔀 Chunking methods:
+      fixed_660: 3605
+      hierarchical: 24341
+======================================================================
+
+📈 CREATING VISUALIZATIONS...
+INFO: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+✅ Saved temporal distribution plot to stage2_outputs/temporal_distribution.png
+
+✅ STAGE 2 COMPLETED SUCCESSFULLY!
