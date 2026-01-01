@@ -1,0 +1,2 @@
+matrix_name,num_documents,num_features,sparsity,non_zero_elements
+BM25-CHUNKS-HIERARCHICAL,24341,20000,99.51173411117045,2376976
