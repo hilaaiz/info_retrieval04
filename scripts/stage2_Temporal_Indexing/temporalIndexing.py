@@ -23,172 +23,7 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 logger = logging.getLogger(__name__)
 
 # ============================================================
-# 1. ADVANCED DATE EXTRACTION (Regex → spaCy → dateutil)
-# ============================================================
-
-EPOCH = datetime(1970, 1, 1)
-
-def to_unix_seconds_safe(dt: datetime) -> int:
-    """Convert datetime to Unix timestamp (supports pre-1970 dates)"""
-    return int((dt - EPOCH).total_seconds())
-
-class DateExtractor:
-    """Multi-strategy date extraction: Regex → spaCy → dateutil"""
-    
-    def __init__(self):
-        """Initialize NLP model"""
-        try:
-            self.nlp = spacy.load("en_core_web_sm")
-            self.spacy_available = True
-            print("✅ spaCy model loaded successfully")
-        except OSError:
-            self.spacy_available = False
-            print("⚠️ spaCy model not found. Install with: python -m spacy download en_core_web_sm")
-    
-    def extract_by_regex(self, text):
-        """
-        Strategy 1: Regex patterns for common date formats
-        Returns: (date_str, confidence)
-        """
-        if not text or not isinstance(text, str):
-            return None, 0
-        
-        # Pattern 1: "Month Day, Year" or "Month Day Year" (e.g., "January 6, 2021")
-        pattern1 = r'(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2}),?\s+(\d{4})'
-        match = re.search(pattern1, text, re.IGNORECASE)
-        if match:
-            return match.group(0), 0.95  # High confidence
-        
-        # Pattern 2: "Day Month Year" (e.g., "6 January 2021")
-        pattern2 = r'(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{4})'
-        match = re.search(pattern2, text, re.IGNORECASE)
-        if match:
-            return match.group(0), 0.95
-        
-        # Pattern 3: "Month Year" (e.g., "June 2020")
-        pattern3 = r'(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{4})'
-        match = re.search(pattern3, text, re.IGNORECASE)
-        if match:
-            return match.group(0), 0.85  # Medium confidence (day unknown)
-        
-        # Pattern 4: ISO format "YYYY-MM-DD"
-        pattern4 = r'(\d{4})[_/-](\d{2})[_/-](\d{2})'
-        match = re.search(pattern4, text)
-        if match:
-            return match.group(0), 0.95
-        
-        # Pattern 5: Year only "YYYY"
-        pattern5 = r'\b(19[89]\d{2}|20\d{2})\b'
-        match = re.search(pattern5, text)
-        if match:
-            return match.group(0), 0.6  # Low confidence (year only)
-        
-        return None, 0
-    
-    def extract_by_spacy(self, text):
-        """
-        Strategy 2: spaCy NLP for DATE entity recognition
-        Returns: (date_str, confidence)
-        """
-        if not self.spacy_available or not text:
-            return None, 0
-        
-        try:
-            doc = self.nlp(text[:500])  # Process first 500 chars only (speed)
-            
-            # Extract DATE entities
-            date_entities = [ent.text for ent in doc.ents if ent.label_ == "DATE"]
-            
-            if date_entities:
-                # Return the first/longest date found
-                best_date = max(date_entities, key=len)
-                return best_date, 0.80  # Medium-high confidence
-            
-            return None, 0
-        except Exception as e:
-            logger.warning(f"spaCy extraction failed: {e}")
-            return None, 0
-    
-    def extract_by_dateutil(self, text):
-        """
-        Strategy 3: dateutil fuzzy parsing for ambiguous dates
-        Returns: (date_str ISO format, confidence)
-        """
-        if not text:
-            return None, 0
-        
-        try:
-            # Extract potential date strings (5+ word sequences)
-            sentences = text.split('.')
-            for sentence in sentences[:3]:  # Check first 3 sentences only
-                words = sentence.split()
-                for i in range(len(words) - 2):
-                    potential_date = ' '.join(words[i:i+4])
-                    try:
-                        parsed_date = dateutil_parser.parse(potential_date, fuzzy=True)
-                        # Validate that date is reasonable (not in far future/past)
-                        if 1900 <= parsed_date.year <= 2100:
-                            return parsed_date.strftime('%Y-%m-%d'), 0.70
-                    except (ValueError, TypeError):
-                        continue
-            
-            return None, 0
-        except Exception as e:
-            logger.warning(f"dateutil extraction failed: {e}")
-            return None, 0
-    
-    def normalize_date(self, date_str):
-        """
-        Normalize date string to ISO 8601 format (YYYY-MM-DD)
-        """
-        if not date_str:
-            return None
-        
-        try:
-            # Try direct ISO parsing
-            if re.match(r'\d{4}-\d{2}-\d{2}', date_str):
-                datetime.fromisoformat(date_str)
-                return date_str
-            
-            # Try dateutil parser
-            parsed = dateutil_parser.parse(date_str, fuzzy=False)
-            return parsed.strftime('%Y-%m-%d')
-        except Exception as e:
-            logger.debug(f"Could not normalize {date_str}: {e}")
-            return None
-    
-    def extract(self, text):
-        """
-        Main extraction method: tries Regex → spaCy → dateutil
-        Returns: (date_iso, strategy_used, confidence)
-        """
-        if not text:
-            return None, "none", 0
-        
-        # Strategy 1: Regex (fastest, most reliable)
-        date_str, conf = self.extract_by_regex(text)
-        if date_str:
-            normalized = self.normalize_date(date_str)
-            if normalized:
-                return normalized, "regex", conf
-        
-        # Strategy 2: spaCy (good for named entities)
-        if self.spacy_available:
-            date_str, conf = self.extract_by_spacy(text)
-            if date_str:
-                normalized = self.normalize_date(date_str)
-                if normalized:
-                    return normalized, "spacy", conf
-        
-        # Strategy 3: dateutil (fuzzy, last resort)
-        date_str, conf = self.extract_by_dateutil(text)
-        if date_str:
-            return date_str, "dateutil", conf
-        
-        return None, "failed", 0
-
-# ============================================================
-# 2. LOAD DATA
+# 1. LOAD DATA
 # ============================================================
 
 def load_chunks_metadata():
@@ -208,7 +43,6 @@ def load_chunks_metadata():
     df_all['country'] = df_all['orig_file'].str.extract(r'(uk|us)', expand=False).str.upper()
     df_all['country'] = df_all['country'].fillna('UNKNOWN')
 
-    
     return df_all
 
 def load_bm25_matrices():
@@ -239,6 +73,40 @@ def load_dense_embeddings():
     }
 
 # ============================================================
+# 2. DATE EXTRACTION 
+# ============================================================
+
+EPOCH = datetime(1970, 1, 1)
+
+def to_unix_seconds_safe(dt: datetime) -> int:
+    """Convert datetime to Unix timestamp (supports pre-1970 dates)"""
+    return int((dt - EPOCH).total_seconds())
+
+def extract_date_from_filename(filename):
+    """
+    Extract date from filename patterns like:
+    - uk_2023-07-03.txt → 2023-07-03
+    - us_2024-01-15.pdf → 2024-01-15
+    """
+    if not filename:
+        return None
+    
+    # Pattern: YYYY-MM-DD
+    match = re.search(r'(\d{4})[_-](\d{2})[_-](\d{2})', filename)
+    if match:
+        year, month, day = match.groups()
+        date_str = f"{year}-{month}-{day}"
+        # Validate
+        try:
+            datetime.fromisoformat(date_str)
+            return date_str
+        except ValueError:
+            return None
+    
+    return None
+
+
+# ============================================================
 # 3. TEMPORAL VECTOR INDEX CLASS
 # ============================================================
 
@@ -248,7 +116,6 @@ class TemporalVectorIndex:
     def __init__(self):
         self.chunks = []
         self.extraction_log = []
-        self.date_extractor = DateExtractor()
     
     def add_chunk_with_temporal_metadata(self,
                                          chunk_id,
@@ -256,14 +123,19 @@ class TemporalVectorIndex:
                                          source,
                                          country,
                                          chunking_method,
-                                         bm25_vector,
-                                         dense_vector):
+                                         embedding_method,
+                                         bm25_vector=None,
+                                         dense_vector=None):
         """Add chunk with automatic date extraction and temporal metadata"""
         
-        # Extract date using multi-strategy approach
-        timestamp_iso, strategy, confidence = self.date_extractor.extract(text)
-        
+        # Extract date using filename
+        timestamp_iso = extract_date_from_filename(source)
+        strategy = "filename" if timestamp_iso else "none"
+        confidence = 1.0 if timestamp_iso else 0     
+
         timestamp_unix = None
+        extraction_success = False
+        
         if timestamp_iso:
             try:
                 dt = datetime.fromisoformat(timestamp_iso)
@@ -273,31 +145,33 @@ class TemporalVectorIndex:
                 logger.warning(f"Error converting {timestamp_iso}: {e}")
                 timestamp_unix = None
                 extraction_success = False
-        else:
-            extraction_success = False
         
         # Log extraction attempt
         self.extraction_log.append({
             'chunk_id': chunk_id,
             'success': extraction_success,
             'date': timestamp_iso,
-            'strategy': strategy,
             'confidence': confidence,
             'country': country,
-            'source': source
+            'source': source,
+            'embedding_method': embedding_method
         })
         
-        # Convert BM25 vector
-        if hasattr(bm25_vector, 'toarray'):
-            bm25_dense = bm25_vector.toarray().flatten().tolist()
-        else:
-            bm25_dense = bm25_vector.tolist() if isinstance(bm25_vector, np.ndarray) else bm25_vector
+        # Convert BM25 vector if provided
+        bm25_dense = None
+        if bm25_vector is not None:
+            if hasattr(bm25_vector, 'toarray'):
+                bm25_dense = bm25_vector.toarray().flatten().tolist()
+            else:
+                bm25_dense = bm25_vector.tolist() if isinstance(bm25_vector, np.ndarray) else bm25_vector
         
-        # Convert dense vector
-        if isinstance(dense_vector, np.ndarray):
-            dense_list = dense_vector.tolist()
-        else:
-            dense_list = dense_vector
+        # Convert dense vector if provided
+        dense_list = None
+        if dense_vector is not None:
+            if isinstance(dense_vector, np.ndarray):
+                dense_list = dense_vector.tolist()
+            else:
+                dense_list = dense_vector
         
         chunk_data = {
             'id': chunk_id,
@@ -305,13 +179,13 @@ class TemporalVectorIndex:
             'source': source,
             'country': country,
             'chunking_method': chunking_method,
+            'embedding_method': embedding_method,
             'timestamp_iso': timestamp_iso,
             'timestamp_unix': timestamp_unix,
-            'extraction_strategy': strategy,
             'extraction_confidence': confidence,
             'embeddings_shape': {
-                'bm25': len(bm25_dense),
-                'dense_e5_base': len(dense_list)
+                'bm25': len(bm25_dense) if bm25_dense else None,
+                'dense_e5_base': len(dense_list) if dense_list else None
             }
         }
         
@@ -343,17 +217,12 @@ class TemporalVectorIndex:
         print(f"   ✅ Successful: {success_count} ({success_rate:.1f}%)")
         print(f"   ❌ Failed: {total_count - success_count} ({100-success_rate:.1f}%)")
         
-        print(f"\n   Strategies used (successful extractions):")
-        successful = df_log[df_log['success'] == True]
-        if len(successful) > 0:
-            for strategy, count in successful['strategy'].value_counts().items():
-                avg_conf = successful[successful['strategy'] == strategy]['confidence'].mean()
-                print(f"      • {strategy}: {count} chunks (avg confidence: {avg_conf:.2f})")
-        
-        print(f"\n   Confidence distribution:")
-        print(f"      High (>0.85): {len(successful[successful['confidence'] > 0.85])}")
-        print(f"      Medium (0.65-0.85): {len(successful[(successful['confidence'] >= 0.65) & (successful['confidence'] <= 0.85)])}")
-        print(f"      Low (<0.65): {len(successful[successful['confidence'] < 0.65])}")
+        print(f"\n   By embedding method:")
+        for emb_method in df_log['embedding_method'].unique():
+            method_data = df_log[df_log['embedding_method'] == emb_method]
+            method_success = method_data['success'].sum()
+            method_total = len(method_data)
+            print(f"      • {emb_method}: {method_success}/{method_total} ({100*method_success/method_total:.1f}%)")
         
         print(f"\n   By country:")
         for country in df_log['country'].unique():
@@ -399,6 +268,11 @@ class TemporalVectorIndex:
         methods = Counter([c['chunking_method'] for c in self.chunks])
         for method, count in sorted(methods.items()):
             print(f"      {method}: {count}")
+        
+        print(f"\n   🧠 Embedding methods:")
+        embeddings = Counter([c['embedding_method'] for c in self.chunks])
+        for emb, count in sorted(embeddings.items()):
+            print(f"      {emb}: {count}")
         print("="*70 + "\n")
 
 # ============================================================
@@ -435,13 +309,15 @@ def visualize_temporal_dist(temporal_index, output_path="stage2_outputs/temporal
     print(f"✅ Saved temporal distribution plot to {output_path}")
     plt.show()
 
+
+
 # ============================================================
 # 5. MAIN EXECUTION
 # ============================================================
 
 if __name__ == "__main__":
     print("\n" + "="*70)
-    print("🚀 STAGE 2: TEMPORAL INDEXING WITH ADVANCED DATE EXTRACTION")
+    print("🚀 STAGE 2: TEMPORAL INDEXING WITH SEPARATED EMBEDDING METHODS")
     print("="*70)
     
     # Load data
@@ -460,32 +336,53 @@ if __name__ == "__main__":
     temporal_index = TemporalVectorIndex()
     
     for chunking_method in ['fixed_660', 'hierarchical']:
-        print(f"\n   ⏳ Processing: {chunking_method}")
+        print(f"\n   ⏳ Processing chunking method: {chunking_method}")
         
         df_subset = df_chunks[df_chunks['chunking_method'] == chunking_method].reset_index(drop=True)
-        print(f"      Chunks in this method: {len(df_subset)}")
+        print(f"      Total chunks in this method: {len(df_subset)}")
         
         bm25_mat = bm25_matrices[chunking_method]
         dense_mat = dense_embeddings[chunking_method]
         
+        # Process BM25 embeddings
+        print(f"      ➡️ Processing BM25 embeddings...")
         for idx, row in df_subset.iterrows():
             if idx % 500 == 0:
-                print(f"      Processing chunk {idx}/{len(df_subset)}", end='\r')
+                print(f"         BM25: Processing chunk {idx}/{len(df_subset)}", end='\r')
             
             bm25_row = bm25_mat[idx]
-            dense_row = dense_mat[idx]
             
             temporal_index.add_chunk_with_temporal_metadata(
-                chunk_id=f"{chunking_method}_{idx}",
+                chunk_id=f"{chunking_method}_bm25_{idx}",
                 text=row['text'],
                 source=row['orig_file'],
                 country=row['country'],
                 chunking_method=chunking_method,
+                embedding_method='bm25',
                 bm25_vector=bm25_row,
+                dense_vector=None
+            )
+        print(f"      ✅ BM25 completed: {len(df_subset)} chunks added")
+        
+        # Process Dense embeddings
+        print(f"      ➡️ Processing Dense embeddings...")
+        for idx, row in df_subset.iterrows():
+            if idx % 500 == 0:
+                print(f"         Dense: Processing chunk {idx}/{len(df_subset)}", end='\r')
+            
+            dense_row = dense_mat[idx]
+            
+            temporal_index.add_chunk_with_temporal_metadata(
+                chunk_id=f"{chunking_method}_dense_{idx}",
+                text=row['text'],
+                source=row['orig_file'],
+                country=row['country'],
+                chunking_method=chunking_method,
+                embedding_method='dense_e5_base',
+                bm25_vector=None,
                 dense_vector=dense_row
             )
-        
-        print(f"      ✅ Completed {chunking_method}")
+        print(f"      ✅ Dense completed: {len(df_subset)} chunks added")
     
     # Save outputs
     print(f"\n💾 SAVING OUTPUTS...")
@@ -501,4 +398,4 @@ if __name__ == "__main__":
     visualize_temporal_dist(temporal_index)
     
     print("\n✅ STAGE 2 COMPLETED SUCCESSFULLY!")
-    print(f"   📁 Output files saved to: stage2_outputs_new/")
+    print(f"   📁 Output files saved to: stage2_outputs/")
