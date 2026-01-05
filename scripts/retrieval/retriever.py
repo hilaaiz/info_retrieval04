@@ -7,6 +7,7 @@ from datetime import datetime
 from sklearn.metrics.pairwise import cosine_similarity
 from scripts.vectorization.vector_index import VectorIndex
 
+# timestamp_iso
 
 # Paths to pre-built vector indexes
 INDEX_PATHS = {
@@ -32,7 +33,7 @@ def hard_time_filter(chunks, scores, year):
     """
     keep = []
     for i, c in enumerate(chunks):
-        ts = c.meta.get("timestamp")
+        ts = c.meta.get("timestamp_iso")
         if ts is not None and ts.year == year:
             keep.append(i)
     return keep
