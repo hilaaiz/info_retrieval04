@@ -396,7 +396,6 @@ if __name__ == "__main__":
     # Visualization
     print("📈 CREATING VISUALIZATIONS...")
     visualize_temporal_dist(temporal_index)
-    visualize_by_embedding_method(temporal_index)
     
     print("\n✅ STAGE 2 COMPLETED SUCCESSFULLY!")
     print(f"   📁 Output files saved to: stage2_outputs/")

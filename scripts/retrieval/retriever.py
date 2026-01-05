@@ -1,6 +1,12 @@
 # retriever.py
 # Implements Stage 3: Temporal-aware retrieval (Hard filter + Soft decay)
 
+# import sys
+# from pathlib import Path
+
+# PROJECT_ROOT = Path(__file__).resolve().parents[2]
+# sys.path.append(str(PROJECT_ROOT))
+
 import re
 import numpy as np
 from datetime import datetime
@@ -32,7 +38,7 @@ def hard_time_filter(chunks, scores, year):
     """
     keep = []
     for i, c in enumerate(chunks):
-        ts = c.meta.get("timestamp")
+        ts = c.meta.get("timestamp_iso")
         if ts is not None and ts.year == year:
             keep.append(i)
     return keep
@@ -46,7 +52,7 @@ def apply_time_decay(scores, chunks, query_time, alpha=0.3, lambd=0.5):
     new_scores = []
 
     for s, c in zip(scores, chunks):
-        ts = c.meta.get("timestamp")
+        ts = c.meta.get("timestamp_iso")
 
         # If no timestamp, keep original score
         if ts is None:
