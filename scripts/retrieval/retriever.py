@@ -53,7 +53,7 @@ def apply_time_decay(scores, chunks, query_time, alpha=0.3, lambd=0.5):
     new_scores = []
 
     for s, c in zip(scores, chunks):
-        ts = c.meta.get("timestamp_iso")
+        ts = c.meta.get("timestamp")
 
         # If no timestamp, keep original score
         if ts is None:
