@@ -48,7 +48,7 @@ def run_evolution_llm(query: str, early_chunks: list, late_chunks: list) -> str:
         f"--- LATE PERIOD DOCUMENTS ---\n{late_text}"
     )
 
-    # 3. לוגיקת הניסיונות והמפתחות (בדיוק כמו בשלב הקודם)
+    #  לוגיקת הניסיונות והמפתחות
     retries = 15
     for i in range(retries):
         if current_key_index >= len(API_KEYS):
@@ -56,7 +56,7 @@ def run_evolution_llm(query: str, early_chunks: list, late_chunks: list) -> str:
 
         current_key = API_KEYS[current_key_index]
         
-        # ה-URL המדויק שעבד לך (Gemini 2.5 Flash Preview)
+        # URL (Gemini 2.5 Flash Preview)
         url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key={current_key}"
 
         payload = {
@@ -88,15 +88,15 @@ def run_evolution_llm(query: str, early_chunks: list, late_chunks: list) -> str:
 
     return "Failed to get evolution analysis."
 
-# --- מחלקת עזר כדי שהקוד שלך יעבוד בלי לשנות אותו ---
+# --- מחלקת עזר כדי שהקוד יעבוד בלי לשנות אותו ---
 class Chunk:
     def __init__(self, chunk_id, text):
         self.chunk_id = chunk_id
         self.text = text
 
 def main():
-    # 1. יצירת הצאנקים המלאים כפי שביקשת
-    # חילקתי אותם ל-Early ו-Late כדי לבדוק את הלוגיקה האבולוציונית של הפונקציה שלך
+    
+    # חלוקה ל-Early ו-Late כדי לבדוק את הלוגיקה האבולוציונית של הפונקציה שלך
     
     chunk_1_text = """Title: COMMUNITY IS STRONGER THAN CANCER DAY 2023; Congressional Record Vol. 169, No. 116
 From the Congressional Record Online through the Government Publishing Office [www.gpo.gov]
@@ -291,18 +291,17 @@ of Life in San Diego, CA. On behalf of the residents of California's
 condolences to the family of Robb Lally. His legacy is felt, and his
 presence will be greatly missed."""
 
-    # 2. המרה לאובייקטים שהפונקציה שלך דורשת
+    #  המרה לאובייקטים שהפונקציה דורשת
     early_chunks = [Chunk(1, chunk_1_text), Chunk(2, chunk_2_text)]
     late_chunks = [Chunk(3, chunk_3_text), Chunk(4, chunk_4_text)]
 
-    # 3. הגדרת שאילתה לבדיקה
+    #הגדרת שאילתה לבדיקה
     query = "What are the community support initiatives mentioned and how have they evolved?"
 
-    # 4. קריאה לפונקציה המקורית שלך
     print("Sending request to Gemini API...")
     final_answer = run_evolution_llm(query, early_chunks, late_chunks)
     
-    # 5. הדפסת התוצאה
+    #  הדפסת התוצאה
     print("\n--- FINAL EVOLUTION ANALYSIS ---")
     print(final_answer)
 
