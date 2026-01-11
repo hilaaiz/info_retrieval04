@@ -1,0 +1,125 @@
+corpus,chunking_method,embedding_method,query,chunk_id,timestamp_iso,baseline_rank,baseline_score,temporal_rank,temporal_score,alpha,lambda
+UK,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_114,2023-07-27,1,4.0,5,2.9344891070880634,0.3,0.5
+UK,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_392,2023-10-20,2,4.0,4,2.941890579475558,0.3,0.5
+UK,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_413,2023-10-25,3,4.0,3,2.9423514127963624,0.3,0.5
+UK,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_1098,2024-05-24,4,4.0,2,2.9650847457627116,0.3,0.5
+UK,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_1280,2024-07-11,5,4.0,1,2.9712778429073854,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_714,2024-02-23,1,5.0,,,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_732,2024-02-28,2,5.0,,,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_744,2024-02-29,3,5.0,,,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_790,2024-03-08,4,5.0,,,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_840,2024-03-21,5,5.0,,,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_1730,2024-11-19,,,1,3.6908141053548107,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_1714,2024-11-15,,,2,3.6901518438177874,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_1567,2024-09-27,,,3,3.682397003745318,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_1570,2024-09-27,,,4,3.682397003745318,0.3,0.5
+UK,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_1558,2024-09-25,,,5,3.6820938928126297,0.3,0.5
+UK,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_114,2023-07-27,1,4.0,5,2.9344891070880634,0.3,0.5
+UK,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_392,2023-10-20,2,4.0,4,2.941890579475558,0.3,0.5
+UK,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_413,2023-10-25,3,4.0,3,2.9423514127963624,0.3,0.5
+UK,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_1098,2024-05-24,4,4.0,2,2.9650847457627116,0.3,0.5
+UK,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_1280,2024-07-11,5,4.0,1,2.9712778429073854,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_714,2024-02-23,1,5.0,,,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_732,2024-02-28,2,5.0,,,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_744,2024-02-29,3,5.0,,,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_790,2024-03-08,4,5.0,,,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_840,2024-03-21,5,5.0,,,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_1730,2024-11-19,,,1,3.6908141053548107,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_1714,2024-11-15,,,2,3.6901518438177874,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_1567,2024-09-27,,,3,3.682397003745318,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_1570,2024-09-27,,,4,3.682397003745318,0.3,0.5
+UK,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_1558,2024-09-25,,,5,3.6820938928126297,0.3,0.5
+UK,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_13927,2025-10-29,1,6.0,1,4.4724052206339335,0.3,0.5
+UK,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_1116,2023-10-16,2,5.0,,,0.3,0.5
+UK,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_2323,2023-12-12,3,5.0,,,0.3,0.5
+UK,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_2573,2024-01-08,4,5.0,,,0.3,0.5
+UK,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_2877,2024-01-18,5,5.0,,,0.3,0.5
+UK,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_13878,2025-10-28,,,2,3.7720670391061453,0.3,0.5
+UK,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_11623,2025-06-04,,,3,3.7303205465055176,0.3,0.5
+UK,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_11249,2025-05-14,,,4,3.7253470437017997,0.3,0.5
+UK,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_10407,2025-04-01,,,5,3.715805022156573,0.3,0.5
+UK,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_7025,2024-11-14,1,7.0,3,5.089986996098829,0.3,0.5
+UK,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_7767,2024-12-11,2,7.0,2,5.094540612516644,0.3,0.5
+UK,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_7861,2024-12-16,3,7.0,1,5.095407935800267,0.3,0.5
+UK,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_2717,2024-01-11,4,6.0,,,0.3,0.5
+UK,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_2745,2024-01-15,5,6.0,,,0.3,0.5
+UK,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_7803,2024-12-11,,,4,4.394540612516644,0.3,0.5
+UK,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_7284,2024-11-25,,,5,4.391816192560174,0.3,0.5
+UK,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_13927,2025-10-29,1,6.0,1,4.4724052206339335,0.3,0.5
+UK,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_1116,2023-10-16,2,5.0,,,0.3,0.5
+UK,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_2323,2023-12-12,3,5.0,,,0.3,0.5
+UK,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_2573,2024-01-08,4,5.0,,,0.3,0.5
+UK,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_2877,2024-01-18,5,5.0,,,0.3,0.5
+UK,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_13878,2025-10-28,,,2,3.7720670391061453,0.3,0.5
+UK,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_11623,2025-06-04,,,3,3.7303205465055176,0.3,0.5
+UK,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_11249,2025-05-14,,,4,3.7253470437017997,0.3,0.5
+UK,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_10407,2025-04-01,,,5,3.715805022156573,0.3,0.5
+UK,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_7025,2024-11-14,1,7.0,3,5.089986996098829,0.3,0.5
+UK,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_7767,2024-12-11,2,7.0,2,5.094540612516644,0.3,0.5
+UK,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_7861,2024-12-16,3,7.0,1,5.095407935800267,0.3,0.5
+UK,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_2717,2024-01-11,4,6.0,,,0.3,0.5
+UK,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_2745,2024-01-15,5,6.0,,,0.3,0.5
+UK,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_7803,2024-12-11,,,4,4.394540612516644,0.3,0.5
+UK,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_7284,2024-11-25,,,5,4.391816192560174,0.3,0.5
+US,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_3012,2023-10-25,1,4.0,2,2.9423514127963624,0.3,0.5
+US,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_3097,2023-11-21,2,4.0,1,2.9448925619834707,0.3,0.5
+US,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_2658,2023-07-12,3,3.0,,,0.3,0.5
+US,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_2660,2023-07-12,4,3.0,,,0.3,0.5
+US,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_2663,2023-07-12,5,3.0,,,0.3,0.5
+US,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_3590,2024-05-17,,,3,2.264218808542525,0.3,0.5
+US,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_3574,2024-05-14,,,4,2.263850467289719,0.3,0.5
+US,fixed_660,bm25,What is the current official position regarding Hamas/Gaza?,fixed_660_bm25_3564,2024-05-08,,,5,2.263118719761816,0.3,0.5
+US,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_3284,2024-02-23,1,5.0,4,3.6544941839971803,0.3,0.5
+US,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_3329,2024-03-06,2,5.0,3,3.6558123000355494,0.3,0.5
+US,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_3483,2024-04-17,3,5.0,2,3.660608281421766,0.3,0.5
+US,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_3515,2024-04-26,4,5.0,1,3.6616746587974918,0.3,0.5
+US,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_3201,2024-01-02,5,4.0,,,0.3,0.5
+US,fixed_660,bm25,What was the specific budget allocated to security in 2024?,fixed_660_bm25_3599,2024-05-21,,,5,2.9647125140924464,0.3,0.5
+US,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_3012,2023-10-25,1,4.0,2,2.9423514127963624,0.3,0.5
+US,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_3097,2023-11-21,2,4.0,1,2.9448925619834707,0.3,0.5
+US,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_2658,2023-07-12,3,3.0,,,0.3,0.5
+US,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_2660,2023-07-12,4,3.0,,,0.3,0.5
+US,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_2663,2023-07-12,5,3.0,,,0.3,0.5
+US,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_3590,2024-05-17,,,3,2.264218808542525,0.3,0.5
+US,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_3574,2024-05-14,,,4,2.263850467289719,0.3,0.5
+US,fixed_660,dense_e5_base,What is the current official position regarding Hamas/Gaza?,fixed_660_dense_3564,2024-05-08,,,5,2.263118719761816,0.3,0.5
+US,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_3284,2024-02-23,1,5.0,4,3.6544941839971803,0.3,0.5
+US,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_3329,2024-03-06,2,5.0,3,3.6558123000355494,0.3,0.5
+US,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_3483,2024-04-17,3,5.0,2,3.660608281421766,0.3,0.5
+US,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_3515,2024-04-26,4,5.0,1,3.6616746587974918,0.3,0.5
+US,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_3201,2024-01-02,5,4.0,,,0.3,0.5
+US,fixed_660,dense_e5_base,What was the specific budget allocated to security in 2024?,fixed_660_dense_3599,2024-05-21,,,5,2.9647125140924464,0.3,0.5
+US,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_15588,2023-10-25,1,4.0,,,0.3,0.5
+US,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_16752,2024-02-15,2,4.0,,,0.3,0.5
+US,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_18190,2024-05-21,3,4.0,,,0.3,0.5
+US,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_18299,2024-05-24,4,4.0,5,2.9650847457627116,0.3,0.5
+US,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_20606,2024-11-14,5,4.0,4,2.9899869960988297,0.3,0.5
+US,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_24195,2025-10-21,,,1,3.0697230769230766,0.3,0.5
+US,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_23145,2025-07-29,,,2,3.0444506413831567,0.3,0.5
+US,hierarchical,bm25,What is the current official position regarding Hamas/Gaza?,hierarchical_bm25_22540,2025-06-20,,,3,3.0342597541421696,0.3,0.5
+US,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_17993,2024-05-08,1,6.0,1,4.3631187197618155,0.3,0.5
+US,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_16641,2024-02-09,2,5.0,,,0.3,0.5
+US,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_16698,2024-02-14,3,5.0,,,0.3,0.5
+US,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_16752,2024-02-15,4,5.0,,,0.3,0.5
+US,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_16765,2024-02-16,5,5.0,,,0.3,0.5
+US,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_21202,2024-12-20,,,2,3.6961073825503354,0.3,0.5
+US,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_21227,2024-12-20,,,3,3.6961073825503354,0.3,0.5
+US,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_21162,2024-12-19,,,4,3.6959320518551633,0.3,0.5
+US,hierarchical,bm25,What was the specific budget allocated to security in 2024?,hierarchical_bm25_21183,2024-12-19,,,5,3.6959320518551633,0.3,0.5
+US,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_15588,2023-10-25,1,4.0,,,0.3,0.5
+US,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_16752,2024-02-15,2,4.0,,,0.3,0.5
+US,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_18190,2024-05-21,3,4.0,,,0.3,0.5
+US,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_18299,2024-05-24,4,4.0,5,2.9650847457627116,0.3,0.5
+US,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_20606,2024-11-14,5,4.0,4,2.9899869960988297,0.3,0.5
+US,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_24195,2025-10-21,,,1,3.0697230769230766,0.3,0.5
+US,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_23145,2025-07-29,,,2,3.0444506413831567,0.3,0.5
+US,hierarchical,dense_e5_base,What is the current official position regarding Hamas/Gaza?,hierarchical_dense_22540,2025-06-20,,,3,3.0342597541421696,0.3,0.5
+US,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_17993,2024-05-08,1,6.0,1,4.3631187197618155,0.3,0.5
+US,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_16641,2024-02-09,2,5.0,,,0.3,0.5
+US,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_16698,2024-02-14,3,5.0,,,0.3,0.5
+US,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_16752,2024-02-15,4,5.0,,,0.3,0.5
+US,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_16765,2024-02-16,5,5.0,,,0.3,0.5
+US,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_21202,2024-12-20,,,2,3.6961073825503354,0.3,0.5
+US,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_21227,2024-12-20,,,3,3.6961073825503354,0.3,0.5
+US,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_21162,2024-12-19,,,4,3.6959320518551633,0.3,0.5
+US,hierarchical,dense_e5_base,What was the specific budget allocated to security in 2024?,hierarchical_dense_21183,2024-12-19,,,5,3.6959320518551633,0.3,0.5
