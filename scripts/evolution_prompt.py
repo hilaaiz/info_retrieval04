@@ -9,24 +9,7 @@ if sys.stdout.encoding != 'utf-8':
 # רשימת המפתחות שלך
 API_KEYS = [
     
-    "AIzaSyCAO0p4dCRqhkXKS51_SuBumqIMIBslkqw", "AIzaSyB5ehL0AzEZYuP-X6LZQtc952_Z0p8wiLc",
-    "AIzaSyDLaV9a1cRMnKEr5Oty8v_K9HmdVTug4Hc", "AIzaSyAOAFdkAo6_R5hPuc0jyBrM225pn64XB-w",
-    "AIzaSyBGdreRMb9zt79xUICmPqomvAMdWFn3RFU", "AIzaSyAbkxAgnPruaTUm6G3D2kTdSZxPIcHBZIQ",
-    "AIzaSyAlQhGowFFu0yTSn4WSv-aC-upKy4Kcw4k", "AIzaSyCvlpyvoEfrjknsXIcFUTWtLNb2iEz17RY", 
-    "AIzaSyA514WRfN0fN8XYuD23DFy28s95PUOorv4", "AIzaSyDAa4145fz-Wzla9UNzwrC_f3_UvB6XgLM",
-    "AIzaSyDJICglPJmMKwWZ-UlGCIppzb4MwWEUMn4", "AIzaSyDUCDz3Ew96jRlL8Ro50UyNPHEE6Yp5AP4",
-    "AIzaSyCWhzLM02gsA9WDgMwOQhCIpp-AdiKuX-c", "AIzaSyCsR1RKULQIgYzhcTD52JZT8q5j69EmZE4",
-    "AIzaSyCsR1RKULQIgYzhcTD52JZT8q5j69EmZE4", "AIzaSyAAMHMxFDOEF3MfRUf3btSWjYcMQVwh1GA",
-    "AIzaSyBidP59grFFC8MDhwN_s7RpIUQCiTl5K-Y", "AIzaSyCteppIfVYO9R1l1ziPU6p9FbcoBaszHe0",
-    
-    "AIzaSyAwxQdd5w3XNsuCR5cCl9PvRkwTCE2JgIg","AIzaSyBi9Qf_9GLAO4azyhZRxGcnj4fLgmush_Y","AIzaSyDSsz6tVHP6uG8Ka2wHcku7KQ7X9hHFuEM","AIzaSyAdp5E-ZOcUIqgxG3wA6IbFpnvY7VC1eN0","AIzaSyDBI5cbhOxJF0iYLSAYGfFzxJEp2EJvBXQ",
-    "AIzaSyDtm_v-OGUJAmws0YYjK0O3S-qdxgKSqCQ","AIzaSyBoyvtv6fmu6QAln4jaaRkAmirPh5tyHvI","AIzaSyDNrJVjTdANA36XLggKbD5POxaKphDOfaE","AIzaSyA0dhvuCCsLK4uxvnh7KpdhP_g_sDYpCAI","AIzaSyDsJvarSqllcFbjl-3vWgFidI4IpPOvAMU",
-    "AIzaSyBxNbVLUcGvBsbISYqq4GRyZFAZpUMlBGA", "AIzaSyCOUO9JNveZ3mXSuMWVWZys3F_iV8x8zos", 
-    "AIzaSyD5i5QQKFsQERCIIyo2nxbVxpjAfuK76d0", "AIzaSyAxajijFg9GOuhs6AIyqSfobNnAMPBs_ek", 
-    "AIzaSyDHKWdtQM5zpBB2Bt6Vn1CxzxKUjZOM_Jc","AIzaSyCAwqDCQ1wy2Q7SJPydXN2HvvoMOua0-4Y", 
-    "AIzaSyB-niqNmQqFSFmtbJ1Zo-vG1UAd18gGlmo", "AIzaSyBacSY94S5IJ7JUblP5_TxGF0A1yUD6FUM", 
-    "AAIzaSyA-9KhINucQJJxC_5IR0CIEHKXF92pfxHY", "AIzaSyDlCzyK7JtdjZ4E-l6FkcDLsEgaWx-ms6U",
-    "AIzaSyAsNmPt-us1qeKc00jX1xDx8kyOr9hI5-w","AIzaSyDDlx8K7Fn6AwICo0Bc5jr3SCVrubhoqww",
+
     
 ]
 
