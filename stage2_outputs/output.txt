@@ -1,0 +1,88 @@
+======================================================================
+🚀 STAGE 2: TEMPORAL INDEXING WITH SEPARATED EMBEDDING METHODS
+======================================================================
+
+📥 LOADING DATA...
+📂 Loading BM25 metadata...
+📊 Loading BM25 matrices...
+🧠 Loading dense embeddings...
+
+📊 Loaded data summary:
+   • Total chunks: 27946
+   • Chunking methods: ['fixed_660' 'hierarchical']
+   • Country distribution: {'UNKNOWN': 13979, 'US': 11332, 'UK': 2635}
+
+🔨 BUILDING TEMPORAL INDEX...
+
+   ⏳ Processing chunking method: fixed_660
+      Total chunks in this method: 3605
+      ➡️ Processing BM25 embeddings...
+      ✅ BM25 completed: 3605 chunks added
+      ➡️ Processing Dense embeddings...
+      ✅ Dense completed: 3605 chunks added
+
+   ⏳ Processing chunking method: hierarchical
+      Total chunks in this method: 24341
+      ➡️ Processing BM25 embeddings...
+      ✅ BM25 completed: 24341 chunks added
+      ➡️ Processing Dense embeddings...
+      ✅ Dense completed: 24341 chunks added
+
+💾 SAVING OUTPUTS...
+✅ Saved temporal index to stage2_outputs/temporal_index_stage2.json
+✅ Saved metadata to stage2_outputs/temporal_index_metadata.parquet
+✅ Saved extraction log to stage2_outputs/date_extraction_analysis.csv
+
+======================================================================
+📊 DATE EXTRACTION ANALYSIS
+======================================================================
+   Total chunks processed: 55892
+   ✅ Successful: 55892 (100.0%)
+   ❌ Failed: 0 (0.0%)
+
+   By embedding method:
+      • bm25: 27946/27946 (100.0%)
+      • dense_e5_base: 27946/27946 (100.0%)
+
+   By country:
+      • UK: 5270/5270 (100.0%)
+      • US: 22664/22664 (100.0%)
+      • UNKNOWN: 27958/27958 (100.0%)
+======================================================================
+
+
+======================================================================
+📊 TEMPORAL INDEX STATISTICS
+======================================================================
+   Total chunks: 55892
+   Chunks with valid dates: 55892 (100.0%)
+   Chunks without dates: 0
+
+   📅 Date range: 2023-06-28 to 2025-10-31
+   📈 Year distribution:
+      2023: 12586 chunks
+      2024: 23790 chunks
+      2025: 19516 chunks
+
+   🌍 Country distribution:
+      UK: 5270
+      UNKNOWN: 27958
+      US: 22664
+
+   🔀 Chunking methods:
+      fixed_660: 7210
+      hierarchical: 48682
+
+   🧠 Embedding methods:
+      bm25: 27946
+      dense_e5_base: 27946
+======================================================================
+
+📈 CREATING VISUALIZATIONS...
+INFO: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+✅ Saved temporal distribution plot to stage2_outputs/temporal_distribution.png
+✅ Saved temporal distribution by embedding method to stage2_outputs/temporal_by_embedding.png
+
+✅ STAGE 2 COMPLETED SUCCESSFULLY!
+   📁 Output files saved to: stage2_outputs/

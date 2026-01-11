@@ -1,12 +1,19 @@
 # retriever.py
 # Implements Stage 3: Temporal-aware retrieval (Hard filter + Soft decay)
 
+# import sys
+# from pathlib import Path
+
+# PROJECT_ROOT = Path(__file__).resolve().parents[2]
+# sys.path.append(str(PROJECT_ROOT))
+
 import re
 import numpy as np
 from datetime import datetime
 from sklearn.metrics.pairwise import cosine_similarity
 from scripts.vectorization.vector_index import VectorIndex
 
+# timestamp_iso
 
 # Paths to pre-built vector indexes
 INDEX_PATHS = {
@@ -32,7 +39,7 @@ def hard_time_filter(chunks, scores, year):
     """
     keep = []
     for i, c in enumerate(chunks):
-        ts = c.meta.get("timestamp")
+        ts = c.meta.get("timestamp_iso")
         if ts is not None and ts.year == year:
             keep.append(i)
     return keep
@@ -123,3 +130,29 @@ def retrieve(query: str, method: str, chunking_type: str, k: int):
         })
 
     return results
+
+
+def normalize_query(q: str):
+    q = q.lower()
+    q = re.sub(r"[^\w\s]", " ", q)  # מסיר / ? ' וכו'
+    return q.split()
+
+
+def retrieve_eval(query, chunks, chunking_type, k=10):
+    """
+    Evaluation-only retriever.
+    Uses precomputed BM25 scores stored in chunks (no index loading).
+    """
+    # Simple keyword matching fallback (enough for Stage 4)
+    query_terms = set(normalize_query(query))
+
+
+    scored = []
+    for c in chunks:
+        text = c.get("text_preview", "").lower()
+        score = sum(1 for t in query_terms if t in text)
+        if score > 0:
+            scored.append((score, c))
+
+    scored.sort(key=lambda x: x[0], reverse=True)
+    return [c for _, c in scored[:k]]
