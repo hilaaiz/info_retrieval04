@@ -76,13 +76,10 @@ def _get_ts_dt(chunk: Any) -> Optional[datetime]:
 
 
 def _sort_by_time(chunks: List[Any], newest_first: bool) -> List[Any]:
-    """
-    Sort chunks by timestamp; chunks without timestamp go to the end.
-    """
+    """   
     def key_fn(c: Any):
         dt = _get_ts_dt(c)
         return (dt is None, dt if dt is not None else datetime.min)
-
     chunks_sorted = sorted(chunks, key=key_fn, reverse=newest_first)
 
     # Ensure None timestamps always last
