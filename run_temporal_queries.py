@@ -1,4 +1,6 @@
 import json
+import csv
+
 from datetime import datetime
 from scripts.retrieval.temporal_retrieval import temporal_retrieve
 from scripts.retrieval.retriever import retrieve_eval
@@ -8,10 +10,26 @@ from scripts.evolution_prompt import run_evolution_llm, Chunk
 # File logging
 # -------------------------
 OUT_FILE = f"stage4_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+CSV_OUT = f"stage4_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
 
 def log(msg=""):
     with open(OUT_FILE, "a", encoding="utf-8") as f:
         f.write(msg + "\n")
+
+def write_csv_header():
+    with open(CSV_OUT, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow([
+            "corpus",
+            "chunking_method",
+            "embedding_method",
+            "query",
+            "period",
+            "rank_in_period",
+            "chunk_id",
+            "timestamp_iso",
+            "text_preview"
+        ])
 
 def log_chunks(title, chunks):
     log(title)
@@ -24,7 +42,7 @@ def log_chunks(title, chunks):
 # Configuration
 # -------------------------
 def is_corpus(chunk, corpus):
-    return chunk["source"].lower().startswith(corpus.lower() + "_")
+   return chunk["source"].lower().startswith(corpus.lower() + "_")
 
 INDEX_PATH = "stage2_outputs/temporal_index_stage2.json"
 
@@ -57,12 +75,36 @@ QUERIES = [
     "Was immigration policy stricter in 2025 than in 2023?",
     "How did climate policy rhetoric change between the earliest and latest documents?",
 ]
+def append_chunks_to_csv(
+    corpus,
+    chunking_method,
+    embedding_method,
+    query,
+    period,
+    chunks
+):
+    with open(CSV_OUT, "a", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        for rank, c in enumerate(chunks, start=1):
+            writer.writerow([
+                corpus,
+                chunking_method,
+                embedding_method,
+                query,
+                period,
+                rank,
+                c["id"],
+                c["timestamp_iso"],
+                c["text_preview"]
+            ])
 
 # -------------------------
 # Load index
 # -------------------------
 with open(INDEX_PATH, "r", encoding="utf-8") as f:
     ALL_CHUNKS = json.load(f)
+write_csv_header()
+
 
 print(f"Loaded {len(ALL_CHUNKS)} chunks")
 log(f"Loaded {len(ALL_CHUNKS)} chunks")
@@ -111,6 +153,23 @@ for corpus in CORPORA:
                 months=MONTHS,
                 chunking_method=chunking_method,
                 embedding_method=embedding_method,
+            )
+            append_chunks_to_csv(
+                corpus,
+                chunking_method,
+                embedding_method,
+                query,
+                "EARLY",
+                early
+            )
+
+            append_chunks_to_csv(
+                corpus,
+                chunking_method,
+                embedding_method,
+                query,
+                "LATE",
+                late
             )
 
             print("\nEARLY (old → new):")

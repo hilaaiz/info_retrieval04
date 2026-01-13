@@ -42,10 +42,10 @@ def _get_ts_dt(chunk: Any) -> Optional[datetime]:
     Works for dict chunks and object chunks.
     """
     ts_unix = _get_field(chunk, "timestamp_unix", None)
-      - timestamp_unix (int seconds)
-      - timestamp_iso (ISO string or datetime)
-    Works for dict chunks and object chunks.
-    """
+    #   - timestamp_unix (int seconds)
+    #   - timestamp_iso (ISO string or datetime)
+    # Works for dict chunks and object chunks.
+    
     ts_unix = _get_field(chunk, "timestamp_unix", None)
     if ts_unix is not None:
         try:
@@ -76,7 +76,7 @@ def _get_ts_dt(chunk: Any) -> Optional[datetime]:
 
 
 def _sort_by_time(chunks: List[Any], newest_first: bool) -> List[Any]:
-    """   
+     
     def key_fn(c: Any):
         dt = _get_ts_dt(c)
         return (dt is None, dt if dt is not None else datetime.min)
@@ -156,7 +156,6 @@ class TemporalWindows:
     late_end: datetime
 
 
-def build_windows_from_corpus(all_chunks: Iterable[Any], months: int = 8) -> TemporalWindows:
 def build_windows_from_corpus(all_chunks: Iterable[Any], months: int = 8) -> TemporalWindows:
     """
     Builds two windows:

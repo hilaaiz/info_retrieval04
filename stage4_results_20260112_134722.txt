@@ -1,0 +1,233 @@
+Loaded 55892 chunks
+
+================================================================================
+CORPUS: UK
+================================================================================
+[DEBUG] corpus_chunks size: 33228
+
+--------------------------------------------------------------------------------
+SYSTEM: fixed_660 + bm25
+--------------------------------------------------------------------------------
+[DEBUG] system_chunks size: 2635
+
+QUERY: What was the specific budget allocated to security in 2024?
+EARLY (old → new):
+- 2024-02-23 | On February 22, 2024, Briana Daniel was honored as a distinguished
+
+leader in Central Florida for Black History Month.
+From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
+
+HONORING CLAY FIRE TERRITORY CHIEF TIMM SCHABBEL'S CAR...
+- 2024-02-28 | Meetings scheduled for Thursday, February 29, 2024 may be found in
+
+the Daily Digest of today's Record.
+MEETINGS SCHEDULED
+
+MARCH 6
+
+9:30 a.m.
+
+Committee on Homeland Security and Governmental Affairs
+
+Business meeting to resume consideration of S. 3664, to
+
+require executive branch employees to repo...
+- 2024-02-29 | DOUG LAMBORN
+
+Mr. LAMBORN.
+Mr. Speaker, I rise today to honor the God-honoring life
+
+and generous impact of a Pikes Peak community stalwart--Gerald ``Jay''
+
+Cimino, who died of natural causes on February 24, 2024, at the age of
+
+87.
+Jay truly was a pillar of the Pike's Peak region, both as a well-
+
+...
+- 2024-03-08 | Mr. Speaker, I was unable to vote
+
+during a portion of the legislative day on March 6, 2024.
+Had I been
+
+present, I would have voted YEA on H. Res.
+1061.
+From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
+
+RECOGNIZING DEMETRI...
+- 2024-03-21 | Mr. Speaker, I rise today to honor the life of Teresa
+
+Darlene McDowney, who passed away on Thursday, February 22, 2024.
+She
+
+was born on July 15, 1971.
+She was employed with the King George Sheriff's Office as an Animal
+
+Control Officer from 2013 to 2020 and was employed with the
+
+Westmoreland Coun...
+- 2024-03-22 | After six months, government-wide
+
+layoffs prompted Matthew to relocate to the Bay Area, where he worked
+
+as a budget analyst for the city manager of Oakland and then for the
+
+controller's office in San Francisco.
+In 1997, newly elected Mayor
+
+Willie Brown was impressed by Matthew's budget developme...
+- 2024-04-05 | In 2024, he received the Builders of
+
+Zion Award and in 2023 he was the recipient of Matan's Trail Blazer's
+
+Award.
+Despite his retirement, Rabbi Bennett Miller has continued to provide
+
+outstanding rabbinical leadership and contributions to the community.
+I
+
+sincerely hope my colleagues will join m...
+- 2024-04-10 | Tom left his job with PG&E and established Thomas Welding in his
+
+garage in Chico in 1972.
+Thomas Hydraulics followed in 1974 as well as
+
+Thomas Manufacturing in 1996.
+What was once Tom's small business idea
+
+now stands as one of the largest machine shops north of Sacramento.
+Tom served the Chico co...
+- 2024-04-26 | Sadly, Pops transitioned from labor to reward on April
+
+14, 2024.
+A public viewing was held on Wednesday April 23, 2024, at
+
+Taylor Funeral Home in Phenix City, Alabama, and a memorial service to
+
+celebrate his remarkable life was held on Thursday, April 25, 2024, at
+
+the Revelation Missionary Bapti...
+- 2024-05-08 | Committee on the Budget
+
+To hold hearings to examine climate change and the costs
+
+to national security.
+Committee on Energy and Natural Resources
+
+Subcommittee on National Parks
+
+To hold hearings to examine the President's proposed
+
+budget request for fiscal year 2025 for the National
+
+Park Service...
+LATE (new → old):
+- 2024-05-08 | Committee on the Budget
+
+To hold hearings to examine climate change and the costs
+
+to national security.
+Committee on Energy and Natural Resources
+
+Subcommittee on National Parks
+
+To hold hearings to examine the President's proposed
+
+budget request for fiscal year 2025 for the National
+
+Park Service...
+- 2024-04-26 | Sadly, Pops transitioned from labor to reward on April
+
+14, 2024.
+A public viewing was held on Wednesday April 23, 2024, at
+
+Taylor Funeral Home in Phenix City, Alabama, and a memorial service to
+
+celebrate his remarkable life was held on Thursday, April 25, 2024, at
+
+the Revelation Missionary Bapti...
+- 2024-04-10 | Tom left his job with PG&E and established Thomas Welding in his
+
+garage in Chico in 1972.
+Thomas Hydraulics followed in 1974 as well as
+
+Thomas Manufacturing in 1996.
+What was once Tom's small business idea
+
+now stands as one of the largest machine shops north of Sacramento.
+Tom served the Chico co...
+- 2024-04-05 | In 2024, he received the Builders of
+
+Zion Award and in 2023 he was the recipient of Matan's Trail Blazer's
+
+Award.
+Despite his retirement, Rabbi Bennett Miller has continued to provide
+
+outstanding rabbinical leadership and contributions to the community.
+I
+
+sincerely hope my colleagues will join m...
+- 2024-03-22 | After six months, government-wide
+
+layoffs prompted Matthew to relocate to the Bay Area, where he worked
+
+as a budget analyst for the city manager of Oakland and then for the
+
+controller's office in San Francisco.
+In 1997, newly elected Mayor
+
+Willie Brown was impressed by Matthew's budget developme...
+- 2024-03-21 | Mr. Speaker, I rise today to honor the life of Teresa
+
+Darlene McDowney, who passed away on Thursday, February 22, 2024.
+She
+
+was born on July 15, 1971.
+She was employed with the King George Sheriff's Office as an Animal
+
+Control Officer from 2013 to 2020 and was employed with the
+
+Westmoreland Coun...
+- 2024-03-08 | Mr. Speaker, I was unable to vote
+
+during a portion of the legislative day on March 6, 2024.
+Had I been
+
+present, I would have voted YEA on H. Res.
+1061.
+From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
+
+RECOGNIZING DEMETRI...
+- 2024-02-29 | DOUG LAMBORN
+
+Mr. LAMBORN.
+Mr. Speaker, I rise today to honor the God-honoring life
+
+and generous impact of a Pikes Peak community stalwart--Gerald ``Jay''
+
+Cimino, who died of natural causes on February 24, 2024, at the age of
+
+87.
+Jay truly was a pillar of the Pike's Peak region, both as a well-
+
+...
+- 2024-02-28 | Meetings scheduled for Thursday, February 29, 2024 may be found in
+
+the Daily Digest of today's Record.
+MEETINGS SCHEDULED
+
+MARCH 6
+
+9:30 a.m.
+
+Committee on Homeland Security and Governmental Affairs
+
+Business meeting to resume consideration of S. 3664, to
+
+require executive branch employees to repo...
+- 2024-02-23 | On February 22, 2024, Briana Daniel was honored as a distinguished
+
+leader in Central Florida for Black History Month.
+From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
+
+HONORING CLAY FIRE TERRITORY CHIEF TIMM SCHABBEL'S CAR...
